@@ -1,0 +1,5 @@
+.li-cards ul li {
+    display: inline-block;
+    background-color: bisque;
+    color: brown;
+}
