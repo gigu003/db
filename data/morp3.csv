@@ -1,0 +1,1483 @@
+﻿morp,mrop_desen,behavior,comments
+M8000/0,"Neoplasm, benign",Benign,
+M8000/1,"Neoplasm, uncertain whether benign or malignant",Borderline,
+M8000/2,"Neoplasm, in situ",In-Situ,Not listed in ICD-O-3.2
+M8000/3,"Neoplasm, malignant",Malignant,
+M8000/6,"Neoplasm, metastatic",Metastatic,Not a code used in the registry
+M8000/9,"Neoplasm, malignant, uncertain whether primary or metastatic (C809)",Unknown,Not a code used in the registry
+M8001/0,"Tumor cells, benign",Benign, 
+M8001/1,"Tumor cells, uncertain whether benign or malignant",Borderline,
+M8001/3,"Tumor cells, malignant",Malignant,
+M8002/3,"Malignant tumor, small cell type",Malignant, 
+M8003/3,"Malignant tumor, giant cell type",Malignant,
+M8004/3,"Malignant tumor, spindle cell type",Malignant,
+M8005/0,"Clear cell tumor, NOS",Benign,
+M8005/3,"Malignant tumor, clear cell type",Malignant,
+M8010/0,"Epithelial tumor, benign",Benign,
+M8010/2,"Carcinoma in situ, NOS",In-Situ,
+M8010/3,"Carcinoma, NOS",Malignant,
+M8010/6,"Carcinoma, metastatic, NOS",Metastatic,Not a code used in the registry
+M8010/9,Carcinomatosis (C809),Unknown,Not a code used in the registry
+M8011/0,"Epithelioma, benign",Benign,
+M8011/3,"Epithelioma, malignant",Malignant,
+M8012/2,"Large cell carcinoma, in situ  ",In-Situ,Not listed in ICD-O-3.2
+M8012/3,"Large cell carcinoma, NOS",Malignant,
+M8013/3,Large cell neuroendocrine carcinoma,Malignant,
+M8014/3,Large cell carcinoma with rhabdoid phenotype,Malignant,
+M8015/3,Glassy cell carcinoma ,Malignant,
+M8020/2,"Carcinoma, undifferentiated, NOS, in situ",In-Situ,Not listed in ICD-O-3.2
+M8020/3,"Carcinoma, undifferentiated, NOS",Malignant,
+M8021/3,"Carcinoma, anaplastic, NOS",Malignant,
+M8022/2,Pleomorphic carcinoma in situ,In-Situ,Not listed in ICD-O-3.2
+M8022/3,Pleomorphic carcinoma ,Malignant,
+M8023/3,Nuclear protein in testis (NUT) associated carcinoma (ICD-O-3.2 update),Malignant,
+M8030/2,Spindle cell carcinoma in situ,In-Situ,Not listed in ICD-O-3.2
+M8030/3,Giant cell and spindle cell carcinoma ,Malignant,
+M8031/3,Giant cell carcinoma ,Malignant,
+M8032/2,Spindle cell carcinoma in situ,In-Situ,Not listed in ICD-O-3.2
+M8032/3,"Spindle cell carcinoma, NOS  ",Malignant, 
+M8033/2,"Pseudosarcomatous carcinoma, in situ",In-Situ,Not listed in ICD-O-3.2
+M8033/3,Pseudosarcomatous carcinoma,Malignant,
+M8034/3,Polygonal cell carcinoma,Malignant,
+M8035/3,Carcinoma with osteoclast-like giant cells,Malignant,
+M8040/0,"Tumorlet, benign ",Benign,
+M8040/1,"Tumorlet, NOS",Borderline,
+M8040/3,"Tumorlet, malignant",Malignant,Not listed in ICD-O-3.2
+M8041/2,"Small cell carcinoma, in situ",In-Situ,Not listed in ICD-O-3.2
+M8041/3,"Small cell carcinoma, NOS",Malignant,
+M8042/3,Oat cell carcinoma  (C34_),Malignant,
+M8043/3,"Small cell carcinoma, fusiform cell (C34_)",Malignant,
+M8044/3,"Small cell carcinoma, intermediate cell (C34_)",Malignant,
+M8045/2,"Combined small cell carcinoma, in situ (C34_)",In-Situ,Not listed in ICD-O-3.2
+M8045/3,Combined small cell carcinoma (C34_),Malignant,
+M8046/2,Non-small cell carcinoma in situ  (C34_),In-Situ,Not listed in ICD-O-3.2
+M8046/3,Non-small cell carcinoma  (C34_),Malignant,
+M8050/0,"Papilloma, NOS",Benign,
+M8050/1,Papilloma of uncertain malignant potential,Borderline,Not listed in ICD-O-3.2
+M8050/2,Papillary carcinoma in situ,In-Situ,
+M8050/3,"Papillary carcinoma, NOS",Malignant,
+M8051/0,Verrucous papilloma,Benign,
+M8051/2,Verrucous carcinoma in situ,In-Situ,Not listed in ICD-O-3.2
+M8051/3,"Verrucous carcinoma, NOS",Malignant,
+M8052/0,"Squamous cell papilloma, NOS",Benign,
+M8052/2,"Papillary squamous cell carcinoma, non-invasive ",In-Situ,
+M8052/3,Papillary squamous cell carcinoma ,Malignant,
+M8053/0,"Squamous cell papilloma, inverted",Benign,
+M8053/2,"Squamous cell papilloma, inverted, in situ",In-Situ,Not listed in ICD-O-3.2
+M8053/3,"Squamous cell papilloma, inverted, malignant ",Malignant,Not listed in ICD-O-3.2
+M8054/0,Warty dyskeratoma (ICD-O-3.2 update),Benign,
+M8054/3,Warty carcinoma (ICD-O-3.2 update),Malignant,
+M8060/0,Squamous papillomatosis ,Benign,
+M8060/3,"Papillomatosis, NOS, malignant",Malignant,Not listed in ICD-O-3.2
+M8070/0,Actinic kertosis (ICD-O-3.2 update),Benign,
+M8070/2,"Squamous cell carcinoma in situ, NOS",In-Situ,
+M8070/3,"Squamous cell carcinoma, NOS",Malignant,
+M8070/6,"Squamous cell carcinoma, metastatic, NOS",Metastatic,Not a code used in the registry
+M8071/2,Differentiated intraepithelial neoplasia,In-Situ,
+M8071/3,"Squamous cell carcinoma, keratinizing, NOS ",Malignant,
+M8072/0,Large cell acanthoma (ICD-O-3.2 update),Benign,
+M8072/2,"Squamous cell carcinoma, large cell, nonkeratinizing, in situ ",In-Situ,Not listed in ICD-O-3.2
+M8072/3,"Squamous cell carcinoma, large cell, nonkeratinizing, NOS",Malignant,
+M8073/2,"Squamous cell carcinoma, small cell, nonkeratinizing, in situ",In-Situ,
+M8073/3,"Squamous cell carcinoma, small cell, nonkeratinizing",Malignant,
+M8074/3,"Squamous cell carcinoma, spindle cell",Malignant,
+M8075/2,"Squamous cell carcinoma, adenoid, in situ",In-Situ,Not listed in ICD-O-3.2
+M8075/3,"Squamous cell carcinoma, adenoid",Malignant,
+M8076/2,Squamous cell CIS with questionable stromal invasion (C53_),In-Situ,
+M8076/3,"Squamous cell carcinoma, micro-invasive",Malignant,
+M8077/0,"Squamous intraepithelial neoplasia, low grade",Benign,
+M8077/2,"Squamous intraepithelial neoplasia, high grade",In-Situ,
+M8078/3,Squamous cell carcinoma with horn formation,Malignant,
+M8080/2,Queyrat erythroplasia (C60_)  ,In-Situ,
+M8080/3,"Queyrat erythroplasia, malignant (C60_)  ",Malignant,Not listed in ICD-O-3.2
+M8081/2,Bowen disease (C44_),In-Situ,
+M8081/3,"Bowen's disease, malignant (C44_)",Malignant,Not listed in ICD-O-3.2
+M8082/3,Lymphoepithelial carcinoma ,Malignant,
+M8083/2,Basaloid squamous cell carcinoma in situ,In-Situ,Not listed in ICD-O-3.2
+M8083/3,Basaloid squamous cell carcinoma ,Malignant,
+M8084/0,Clear cell acanthoma (ICD-O-3.2 update),Benign,
+M8084/3,"Squamous cell carcinoma, clear cell type",Malignant,
+M8085/3,"Squamous cell carcinoma, HPV-positive (ICD-O-3.2 update)",Malignant,
+M8086/3,"Squamous cell carcinoma, HPV-negative (ICD-O-3.2 update)",Malignant,
+M8090/1,Basal cell tumor (C44_),Borderline,
+M8090/2,Basal cell carcinoma in situ (C44_),In-Situ,Not listed in ICD-O-3.2
+M8090/3,"Basal cell carcinoma, NOS (C44_)",Malignant,
+M8091/2,"Multicentric basal cell carcinoma, in situ (C44_)",In-Situ,Not listed in ICD-O-3.2
+M8091/3,Superficial basal cell carcinoma (C44_),Malignant,
+M8092/3,"Infiltrating basal cell carcinoma, NOS (C44_)",Malignant,
+M8093/3,"Basal cell carcinoma, fibroepithelial (C44_)",Malignant,
+M8094/2,Basosquamous carcinoma in situ (C44),In-Situ,Not listed in ICD-O-3.2
+M8094/3,Basosquamous carcinoma (C44_),Malignant,
+M8095/3,Metatypical carcinoma (C44_),Malignant,
+M8096/0,Intraepidermal epithelioma of Jadassohn  (C44_),Benign,
+M8097/3,"Basal cell carcinoma, nodular (C44_)",Malignant,
+M8098/3,Adenoid basal cell carcinoma (C53_),Malignant,
+M8100/0,Trichoepithelioma  (C44_),Benign,
+M8100/3,Trichoblastic carcinoma (ICD-O-3.2 update) (C44_),Malignant,
+M8101/0,Trichofolliculoma (C44_),Benign,
+M8102/0,Trichilemmoma (C44_),Benign,
+M8102/3,Trichilemmocarcinoma (C44_),Malignant,
+M8103/0,"Pilar tumor (C44_) (ICD-O-3.2 update, see code 8103/1) ",Benign,
+M8103/1,Proliferating trichilemmal cyst (C44_) (ICD-O-3.2 update) ,Borderline,
+M8103/3,"Pilar tumor, malignant (C44_)",Malignant,Not listed in ICD-O-3.2
+M8104/0,Pilar sheath acanthoma (C44_) (ICD-O-3.2 update) ,Benign,
+M8110/0,"Pilomatricoma, NOS (C44_)",Benign,
+M8110/3,Pilomatrical carcinoma (C44_),Malignant,
+M8120/0,"Urothelial papilloma, NOS (C67_) (ICD-O-3.2 update, previously 8120/1)",Benign,
+M8120/1,"Urothelial papilloma, NOS (C67_) (ICD-O-3.2 update, see code 8210/0) ",Borderline,
+M8120/2,Urothelial carcinoma in situ (C67_),In-Situ,
+M8120/3,"Transitional cell carcinoma, NOS (C67_)",Malignant,
+M8121/0,"Sinonasal papilloma, exophytic (C300, C31_) (ICD-O-3 update,  previously 8121/1)",Benign,
+M8121/1,"Sinonasal papilloma, inverted, NOS (C300, C31_) (ICD-O-3.2 update, see code 8120/0)",Borderline,
+M8121/2,"Transitional cell carcinoma in situ, inverted, NOS (C300, C31_)",In-Situ,
+M8121/3,"Schneiderian carcinoma (C300, C31_)",Malignant, 
+M8122/2,"Transitional cell carcinoma, spindle cell, in situ",In-Situ,Not listed in ICD-O-3.2
+M8122/3,"Urothelial carcinoma, sarcomatoid",Malignant, 
+M8123/2,"Basaloid carcinoma, in situ (C211)",In-Situ,Not listed in ICD-O-3.2
+M8123/3,Basaloid carcinoma (C211),Malignant,
+M8124/2,Cloacogenic carcinoma in situ (C212),In-Situ,Not listed in ICD-O-3.2
+M8124/3,Cloacogenic carcinoma (C212),Malignant,
+M8130/1,Papillary urothelial neoplasm of low malignant potential (C67_),Borderline,
+M8130/2,"Papillary urothelial carcinoma, non-invasive (C67_)",In-Situ,
+M8130/3,Papillary transitional cell carcinoma  (C67_),Malignant,
+M8131/2,"Urothelial carcinoma in situ, micropapillary (C67_)",In-Situ,Not listed in ICD-O-3.2
+M8131/3,"Urothelial carcinoma, micropapillary (C67_)",Malignant,
+M8140/0,"Adenoma, NOS (C619)",Benign,
+M8140/1,Atypical adenoma (C34_),Borderline,
+M8140/2,"Adenocarcinoma in situ, NOS ",In-Situ,
+M8140/3,"Adenocarcinoma, NOS",Malignant,
+M8140/6,"Adenocarcinoma, metastatic, NOS ",Metastatic,Not a code used in the registry
+M8141/3,Scirrhous adenocarcinoma ,Malignant, 
+M8142/3,Linitis plastica (C16_),Malignant,
+M8143/2,Superficial spreading adenocarcinoma in situ,In-Situ,Not listed in ICD-O-3.2
+M8143/3,Superficial spreading adenocarcinoma ,Malignant,
+M8144/0,"Adenoma, intestinal type (C16_) (ICD-O-3.2 update) ",Benign,
+M8144/2,"Intestinal-type adenoma, high grade (C16_)",In-Situ,Not listed in ICD-O-3.2
+M8144/3,"Adenocarcinoma, intestinal type (C16_)",Malignant, 
+M8145/2,"Carcinoma in situ, diffuse type (C16_)",In-Situ,Not listed in ICD-O-3.2
+M8145/3,"Carcinoma, diffuse type  (C16_)",Malignant,
+M8146/0,Monomorphic adenoma,Benign,
+M8146/3,Monomorphic adenocarcinoma,Malignant,Not listed in ICD-O-3.2
+M8147/0,"Basal cell adenoma (C07_, C08_)",Benign,
+M8147/2,"Basal cell adenocarcinoma in situ (C07_, C08_)",In-Situ,Not listed in ICD-O-3.2
+M8147/3,"Basal cell adenocarcinoma (C07_, C08_)",Malignant, 
+M8148/0,"Glandular intraepithelial neoplasia, low grade",Benign,
+M8148/2,"Glandular intraepithelial neoplasia, high grade (PIN III) (C619)",In-Situ,
+M8148/3,"Glandular intraepithelial neoplasia, malignant, high grade (PIN III) (C619)",Malignant,Not listed in ICD-O-3.2
+M8149/0,Canalicular adenoma,Benign, 
+M8149/3,Canalicular adenocarcinoma,Malignant,Not listed in ICD-O-3.2
+M8150/0,"Pancreatic endocrine tumor, benign (C25_) (ICD-O-3.2 update, see code 8150/3)",Benign,
+M8150/1,"Pancreatic endocrine tumor, NOS (C25_) (ICD-O-3.2 update, see code 8150/3) ",Borderline,
+M8150/3,"Pancreatic neuroendocrine tumor, nonfunctioning (C254)  (ICD-O-3 update, previously 8150/0, 8150/1)",Malignant,
+M8151/0,"Insulinoma, NOS (C254) (ICD-O-3.2 update, see code 8151/3) ",Benign,
+M8151/3,"Insulinoma, malignant (C254) (ICD-O-3.2 update, previously 8151/0)",Malignant,
+M8152/1,"Glucagonoma, NOS (C25_) (ICD-O-3.2 update, see code 8152/3)",Borderline,
+M8152/3,"Glucagonoma, NOS (C25_) (ICD-O-3 update, previusly 8152/1))",Malignant,
+M8153/1,"Gastrinoma, NOS (C254) (ICD-O-3.2 update, see code 8153/3) ",Borderline,
+M8153/3,"Gastrinoma, NOS (C25_) (ICD-O-3 update, previously 8153/1)",Malignant,
+M8154/3,Mixed neuroendocrine non-neuroendocrine neoplasm (MiNEN) (C25_)  (ICD-O-3 updated),Malignant, 
+M8155/1,"Vipoma, NOS (ICD-O-3.2 update, see code 8155/3)",Borderline,
+M8155/3,"Vipoma, NOS (C25_)  (ICD-O-3 update, previously 8155/1))",Malignant,
+M8156/1,"Somatostatinoma, NOS (C25_) (ICD-O-3.2 update, see code 8156/3)",Borderline,
+M8156/3,"Somatostatinoma, NOS (C25_)  (ICD-O-3 update, previously 8156/1)",Malignant,
+M8158/1,"ACTH-producing tumor, borderline (ICD-O-3 update, moved to 8158/3)",Borderline,
+M8158/3,"ACTH-producing tumor (C25_) (ICD-O-3 update, 8158/1 moved to this code)",Malignant,
+M8160/0,"Bile duct adenoma (C221, C240)",Benign,
+M8160/2,"Bile duct adenocarcinoma in situ (C221, C240)",In-Situ,Not listed in ICD-O-3.2
+M8160/3,"Cholangiocarcinoma (C221, C240)",Malignant,
+M8161/0,"Bile duct cystadenoma (C221, C240)",Benign, 
+M8161/3,"Bile duct cystadenocarcinoma (C221, C240)",Malignant,
+M8162/2,"Klatskin tumor, in situ (C221, C240)",In-Situ,Not listed in ICD-O-3.2
+M8162/3,"Klatskin tumor (C221, C240)",Malignant,
+M8163/0,"Pancreatobiliary neoplasm, non-invasive (C25_)",Benign,
+M8163/2,"Papillary neoplasm, pancreatobiliary-type, with high grade intraepithelial neoplasia (C241)",In-Situ,
+M8163/3,Pancreatobiliary-type carcinoma (C241),Malignant,
+M8170/0,Liver cell adenoma (C220),Benign, 
+M8170/2,Hepatocellular carcinoma in situ (C220),In-Situ,Not listed in ICD-O-3.2
+M8170/3,"Hepatocellular carcinoma, NOS (C220)",Malignant,
+M8171/3,"Hepatocellular carcinoma, fibrolamellar (C220)",Malignant,
+M8172/3,"Hepatocellular carcinoma, scirrhous (C220)",Malignant,
+M8173/3,"Hepatocellular carcinoma, spindle cell variant (C220)",Malignant,
+M8174/3,"Hepatocellular carcinoma, clear cell type (C220)",Malignant,
+M8175/3,"Hepatocellular carcinoma, pleomorphic type (C220)",Malignant,
+M8180/2,"Combined hepatocellular carcinoma and cholangiocarcinoma, in situ (C220)",In-Situ,Not listed in ICD-O-3.2
+M8180/3,Combined hepatocellular carcinoma and cholangiocarcinoma (C220),Malignant, 
+M8190/0,Trabecular adenoma,Benign,
+M8190/3,Trabecular adenocarcinoma,Malignant,
+M8191/0,Embryonal adenoma,Benign,
+M8200/0,Eccrine dermal cylindroma (C44_),Benign,
+M8200/2,Adenoid cystic carcinoma in situ (C44_),In-Situ,Not listed in ICD-O-3.2
+M8200/3,Adenoid cystic carcinoma (C44_),Malignant,
+M8201/2,Cribriform carcinoma in situ (C50_),In-Situ,
+M8201/3,"Cribriform carcinoma, NOS  (C50_)",Malignant,
+M8202/0,Microcystic adenoma ,Benign,
+M8204/0,Lactating adenoma (C50_),Benign,
+M8210/0,"Adenomatous polyp, NOS",Benign,
+M8210/2,Adenocarcinoma in situ in adenomatous polyp,In-Situ,
+M8210/3,Adenocarcinoma in adenomatous polyp ,Malignant,
+M8211/0,"Tubular adenoma, NOS",Benign,
+M8211/2,Tubular adenocarcinoma in situ,In-Situ,Not listed in ICD-O-3.2
+M8211/3,Tubular adenocarcinoma (C44_),Malignant,
+M8212/0,Flat adenoma,Benign,
+M8212/2,"Flat adenoma, in situ",In-Situ,Not listed in ICD-O-3.2
+M8212/3,"Flat adenoma, malignant",Malignant,Not listed in ICD-O-3.2
+M8213/0,Serrated adenoma (C18_),Benign,
+M8213/2,"Serrated adenoma, in situ (C18_)",In-Situ,Not listed in ICD-O-3.2
+M8213/3,Serrated adenocarcinoma,Malignant,
+M8214/3,Parietal cell carcinoma (C16_),Malignant,
+M8215/2,"Adenocarcinoma of anal glands, in situ (C211)",In-Situ,Not listed in ICD-O-3.2
+M8215/3,Adenocarcinoma of anal glands (C211),Malignant,
+M8220/0,Adenomatous polyposis coli (C18_),Benign,
+M8220/2,Adenocarcinoma in situ in adenomatous polyposis coli (C18_),In-Situ,Not listed in ICD-O-3.2
+M8220/3,Adenocarcinoma in adenomatous polyposis coli (C18_),Malignant,
+M8221/0,Multiple adenomatous polyps,Benign, 
+M8221/2,Adenocarcinoma in situ in multiple adenomatous polyposis coli ,In-Situ,Not listed in ICD-O-3.2
+M8221/3,Adenocarcinoma in multiple adenomatous polyposis coli ,Malignant,
+M8230/2,"Ductal carcinoma in situ, solid type (C50_)",In-Situ,
+M8230/3,"Solid carcinoma, NOS (C50_)",Malignant,
+M8231/3,Carcinoma simplex ,Malignant,
+M8240/1,"Carcinoid tumor of uncertain malignant potential (ICD-O-3 update, see 8241/3) ",Borderline,
+M8240/2,"Carcinoid tumor, in situ (C181)",In-Situ,Not listed in ICD-O-3.2
+M8240/3,"Neuroendocrine tumor, NOS (ICD-O-3 update, previously 8240/1)",Malignant,
+M8241/3,"Enterochromaffin cell carcinod (ICD-O-3.2, 8240/1 moved to this code)",Malignant,
+M8242/1,"Enterochromaffin-like cell carcinoid, NOS (ICD-O-3.2 update, code moved to 8242/3)",Borderline,
+M8242/3,"Enterochromaffin-like cell tumor, malignant (ICD-O-3 update, previously 8242/1)",Malignant,Not listed in ICD-O-3.2
+M8243/2,"Goblet cell carcinoid, in situ",In-Situ,Not listed in ICD-O-3.2
+M8243/3,Goblet cell carcinoid,Malignant,
+M8244/2,"Mixed adenoneuroendocrine carcinoma, in situ (ICD-O-3 update)",In-Situ,Not listed in ICD-O-3.2
+M8244/3,Mixed adenoneuroendocrine carcinoma,Malignant,
+M8245/1,Tubular carcinoid,Borderline,
+M8245/2,"Adenocarcinoid tumor, in situ",In-Situ,Not listed in ICD-O-3.2
+M8245/3,Adenocarcinoid tumor,Malignant,
+M8246/2,Neuroendocrine carcinoma in situ,In-Situ,Not listed in ICD-O-3.2
+M8246/3,"Neuroendocrine carcinoma, NOS",Malignant,
+M8247/2,"Merkel cell carcinoma, in situ (C44_)",In-Situ,Not listed in ICD-O-3.2
+M8247/3,Merkel cell carcinoma (C44_),Malignant,
+M8248/1,Apudoma,Borderline,
+M8249/3,"Neuroendocrine tumor, grade 2",Malignant,
+M8250/0,Atypical adenomatous hyperplasia (C34_) (ICD-O-3.2 update) ,Benign,
+M8250/1,Pulmonary adenomatosis (C34_),Borderline,
+M8250/2,"Adenocarcinoma in situ of the lung, non-mucinous (C34)",In-Situ,
+M8250/3,Lepidic adenocarcinoma (C34_),Malignant,
+M8251/0,Alveolar adenoma (C34_),Benign, 
+M8251/3,Alveolar adenocarcinoma (C34_),Malignant,
+M8252/2,"Bronchio-alveolar carcinoma, non-mucinous in situ (C34_)",In-Situ,Not listed in ICD-O-3.2
+M8252/3,"Bronchio-alveolar carcinoma, non-mucinous (C34_)",Malignant,
+M8253/2,"Adenocarcinoma in situ of the lung, mucinous (C34_)",In-Situ,
+M8253/3,"Adenocarcinoma of the lung, mucinous (C34_)",Malignant,
+M8254/3,"Adenocarcinoma of the lung, mixed mucinous and non-mucinous (C34_)",Malignant,
+M8255/2,"Adenocarcinoma with mixed subtypes, in situ",In-Situ,Not listed in ICD-O-3.2
+M8255/3,Adenocarcinoma with mixed subtypes,Malignant,
+M8256/3,"Minimally invasive adenocarcinoma, non-mucinous (C34_) (ICD-O-3.2 update) ",Malignant,
+M8257/3,"Minimally invasive adenocarcinoma, mucinous (C34_) (ICD-O-3.2 update) ",Malignant,
+M8260/0,"Papillary adenoma, NOS",Benign,
+M8260/1,Aggressive papillary tumor (ICD-O-3.2 update),Borderline,
+M8260/2,"Papillary adenocarcinoma in situ, NOS",In-Situ,Not listed in ICD-O-3.2
+M8260/3,"Papillary adenocarcinoma, NOS",Malignant,
+M8261/0,"Villous adenoma, NOS",Benign,
+M8261/2,Adenocarcinoma in situ in villous adenoma,In-Situ,
+M8261/3,Adenocarcinoma in villous adenoma,Malignant,
+M8262/2,Villous adenocarcinoma in situ,In-Situ,Not listed in ICD-O-3.2
+M8262/3,Villous adenocarcinoma ,Malignant,
+M8263/0,"Tubulovillous adenoma, NOS",Benign,
+M8263/2,Adenocarcinoma in situ in tubulovillous adenoma,In-Situ,
+M8263/3,Adenocarcinoma in tubulovillous adenoma ,Malignant,
+M8264/0,"Papillomatosis, glandular (C221, C240)",Benign,
+M8264/3,"Papillomatosis, glandular, malignant (C221, C240)",Malignant,Not listed in ICD-O-3.2
+M8265/3,"Micropapillary carcinoma, NOS (C18_)",Malignant,
+M8270/0,Chromophobe adenoma (C751),Benign,
+M8270/1,"Chromophobe adenoma, borderline (C751)",Borderline,Not listed in ICD-O-3.2
+M8270/3,Chromophobe carcinoma (C751),Malignant,
+M8271/0,Prolactinoma (C751),Benign,
+M8271/3,"Prolactinoma, malignant (C751)",Malignant,Not listed in ICD-O-3.2
+M8272/0,"Pituitary adenoma, NOS (C751)",Benign,
+M8272/1,"Pituitary, borderline malignancy (C751)",Borderline,Not listed in ICD-O-3.2
+M8272/3,"Pituitary carcinoma, NOS (C751)",Malignant,
+M8273/3,Pituitary blastoma (ICD-O-3.2 update) (C751) ,Malignant,
+M8280/0,Acidophil adenoma (C751),Benign,
+M8280/3,Acidophil carcinoma (C751),Malignant,
+M8281/0,Mixed acidophil-basophil adenoma (C751),Benign,
+M8281/3,Mixed acidophil-basophil carcinoma (C751),Malignant,
+M8290/0,Oxyphillic adenoma (C739),Benign,
+M8290/2,Oxyphillic adenocarcinoma in situ (C739),In-Situ,Not listed in ICD-O-3.2
+M8290/3,Oxyphillic adenocarcinoma (C739),Malignant,
+M8300/0,Basophil adenoma (C751),Benign,
+M8300/3,Basophil carcinoma (C751),Malignant,
+M8310/0,Clear cell adenoma,Benign,
+M8310/2,Clear cell adenocarcinoma in situ,In-Situ,Not listed in ICD-O-3.2
+M8310/3,"Clear cell adenocarcinoma, NOS",Malignant,
+M8311/1,Hypernephroid tumor [obs] (C649),Borderline,
+M8311/3,Hereditary leiomyomatosis and renal cell carcinoma (HLRCC) syndrome-associated renal cell carcinoma (C649),Malignant,
+M8312/2,Renal cell carcinoma in situ (C649),In-Situ,Not listed in ICD-O-3.2
+M8312/3,Renal cell carcinoma (C649),Malignant,
+M8313/0,Clear cell adenofibroma (C569),Benign,
+M8313/1,"Clear cell borderline tumor (C569) (ICD-O-3 update, previously 8444/1)",Borderline, 
+M8313/3,"Clear cell adenocarcinofibroma (C569) (ICD-O-3 update, previously 8444/3)",Malignant,
+M8314/3,Lipid-rich carcinoma (C50_),Malignant,
+M8315/3,Glycogen-rich carcinoma (C50_),Malignant,
+M8316/1,Multilocular cystic renal neoplasm of low malignant potential (C649) (ICD-O-3.2 update) ,Borderline,
+M8316/2,"Cyst-associated renal cell carcinoma, in situ (C649)",In-Situ,Not listed in ICD-O-3.2
+M8316/3,Cyst-associated renal cell carcinoma  (C649),Malignant,
+M8317/3,"Renal cell carcinoma, chromophobe type (C649)",Malignant,
+M8318/3,"Renal cell carcinoma, sarcomatoid (C649)",Malignant,
+M8319/2,Collecting duct carcinoma in situ (C649),In-Situ,Not listed in ICD-O-3.2
+M8319/3,Collecting duct carcinoma (C649),Malignant,
+M8320/3,Granular cell carcinoma,Malignant,
+M8321/0,Chief cell adenoma (C750),Benign,
+M8322/0,Water-clear cell adenoma (C750),Benign,
+M8322/3,Water-clear cell adenocarcinoma (C750),Malignant,
+M8323/0,Mixed cell adenoma ,Benign,
+M8323/1,Clear cell papillary renal cell carcinoma (C649) (ICD-O-3.2 update),Borderline,
+M8323/2,Mixed cell adenocarcinoma in situ,In-Situ,Not listed in ICD-O-3.2
+M8323/3,Mixed cell adenocarcinoma,Malignant,
+M8324/0,Lipoadenoma,Benign,
+M8325/0,Metanephric adenoma (C649),Benign,
+M8325/3,Metanephric adenocarcinoma (C649),Malignant,Not listed in ICD-O-3.2
+M8330/0,Follicular adenoma (C739),Benign,
+M8330/1,Atypical follicular adenoma (C739),Borderline,
+M8330/2,Follicular adenocarcinoma in situ (C739),In-Situ,Not listed in ICD-O-3.2
+M8330/3,"Follicular carcinoma, NOS (C739)",Malignant,
+M8331/3,"Follicular adenocarcinoma, well differentiated (C739)",Malignant,
+M8332/3,"Follicular adenocarcinoma, trabecular (C739)",Malignant,
+M8333/0,"Microfollicular adenoma, NOS (C739)",Benign,
+M8333/3,Fetal adenocarcinoma ,Malignant,
+M8334/0,Macrofollicular adenoma (C739),Benign,
+M8335/1,"Follicular tumor of uncertain malignant potential (C739) (ICD-O-3.2 update, previously 8335/3)",Borderline,New code 2021+
+M8335/2,Macrofollicular carcinoma in situ (C739),In-Situ,Not listed in ICD-O-3.2
+M8335/3,"Follicular carcinoma, minimally invasive (C739) (ICD-O-3.2 update, see code 8335/1) ",Malignant,
+M8336/0,"Hyalinizing trabecular adenoma (C739) (ICD-O-3.2 update, see code 8336/1)",Benign,
+M8336/1,"Hyalinizing trabecular tumor (C739) (ICD-O-3.2 update, previously 8336/0)",Borderline,
+M8337/3,Poor differentiated thyroid carcinoma (C739),Malignant,
+M8339/3,"Follicular carcinoma, encapsulated, angioinvasive (C739) (ICD-O-3.2 update) ",Malignant,
+M8340/2,"Papillary carcinoma follicular variant, in situ follicular variant  (C739)",In-Situ,Not listed in ICD-O-3.2
+M8340/3,"Papillary carcinoma, follicular variant (C739)",Malignant,
+M8341/2,Papillary microcarcinoma in situ (C739) ,In-Situ,Not listed in ICD-O-3.2
+M8341/3,Papillary microcarcinoma (C739),Malignant,
+M8342/3,"Papillary carcinoma, oncocytic cell (C739)",Malignant,
+M8343/2,"Papillary carcinoma, encapsulated, in situ (C739)",In-Situ,Not listed in ICD-O-3.2
+M8343/3,"Papillary carcinoma, encapsulated of thyroid (C739)",Malignant,
+M8344/2,"Papillary carcinoma, columnar cell, in situ (C739)",In-Situ,Not listed in ICD-O-3.2
+M8344/3,"Papillary carcinoma, columnar cell (C739)",Malignant,
+M8345/2,"Medullary carcinoma with amyloid stroma, in situ",In-Situ,Not listed in ICD-O-3.2
+M8345/3,Medcullary thyroid carcinoma (C739),Malignant,
+M8346/3,Mixed medullary-follicular carcinoma (C739),Malignant,
+M8347/3,Mixed medullary-papillary carcinoma  (C739),Malignant,
+M8348/1,Well differentiated tumor of uncertain malignant potential (C739) (ICD-O-3.2 update) ,Borderline,New code 2021+
+M8349/1,Non-invasive follicular thyroid neoplasm with papillary-like nuclear features (NIFTYP) (C739) (ICD-O-3.2 update) ,Borderline,New code 2021+
+M8350/3,Nonencapsulated sclerosing carcinoma (C739),Malignant,
+M8360/1,Multiple endocrine adenomas ,Borderline,
+M8360/3,"Multiple endocrine adenomas, malignant ",Malignant,Not listed in ICD-O-3.2
+M8361/0,Juxtaglomerular tumor  (C649),Benign,
+M8370/0,"Adrenal cortical adenoma, NOS (C740)",Benign,
+M8370/2,Adrenal cortical carcinoma in situ (C740),In-Situ,Not listed in ICD-O-3.2
+M8370/3,Adrenal cortical carcinoma (C740),Malignant,
+M8371/0,"Adrenal cortical adenoma, compact cell (C740)",Benign,
+M8372/0,"Adrenal cortical adenoma, pigmented (C740)",Benign,
+M8373/0,"Adrenal cortical adenoma, clear cell (C740)",Benign,
+M8374/0,"Adrenal cortical adenoma, glomerulosa cell (C740)",Benign,
+M8375/0,"Adrenal cortical adenoma, mixed cell (C740)",Benign,
+M8380/0,"Endometrioid adenoma, NOS (C541)",Benign,
+M8380/1,"Endometrioid adenoma, borderline malignancy (C541)",Borderline,
+M8380/2,Endometrioid intraepithelial neoplasia (C541),In-Situ,
+M8380/3,Endometrioid carcinoma (C541),Malignant,
+M8381/0,"Endometrioid adenofibroma, NOS (C541)",Benign,
+M8381/1,"Endometrioid adenofibroma, borderline malignancy (C541)",Borderline,
+M8381/2,Endometroid adenofibroma in situ (C541),In-Situ,
+M8381/3,"Endometrioid adenofibroma, malignant (C541)",Malignant,
+M8382/2,"Endometrioid adenocarcinoma in situ, secretory variant  (C541)",In-Situ,Not listed in ICD-O-3.2
+M8382/3,"Endometrioid adenocarcinoma, secretory variant (C541)",Malignant,
+M8383/3,"Endometrioid adenocarcinoma, ciliated cell variant (C541)",Malignant,
+M8384/2,"Adenocarcinoma, endocervical type, in situ (C53_)",In-Situ,Not listed in ICD-O-3.2
+M8384/3,"Adenocarcinoma, endocervical type (C53_)",Malignant,
+M8390/0,Skin appendage adenoma (C44_),Benign,
+M8390/2,Skin appendage carcinoma in situ (C44_),In-Situ,Not listed in ICD-O-3.2
+M8390/3,"Adnexal adenocarcinoma, NOS (C44_)",Malignant, 
+M8391/0,Follicular fibroma (C44_),Benign,
+M8392/0,Syringofibroadenoma (C44_),Benign,
+M8392/3,Syringofibroadenocarcinoma (C44_),Malignant,Not listed in ICD-O-3.2
+M8400/0,Sweat gland adenoma (C44_),Benign,
+M8400/1,"Sweat gland tumor, NOS (C44_)",Borderline,
+M8400/2,Sweat gland adenocarcinoma in situ (C44_),In-Situ,Not listed in ICD-O-3.2
+M8400/3,Sweat gland adenocarcinoma (C44_),Malignant, 
+M8401/0,Apocrine adenoma (C44_),Benign,
+M8401/2,Apocrine adenocarcinoma in situ (C44_),In-Situ,Not listed in ICD-O-3.2
+M8401/3,Apocrine adenocarcinoma (C44_),Malignant, 
+M8402/0,"Hidradenoma, NOS (C44_)",Benign,
+M8402/2,"Nodular hidradenoma, in situ (C44_)",In-Situ,Not listed in ICD-O-3.2
+M8402/3,Hidradenocarcinoma (C44_),Malignant, 
+M8403/0,"Spiradenoma, NOS (C44_)",Benign,
+M8403/3,Malignant eccrine spiradenoma (C44_),Malignant, 
+M8404/0,Hidrocystoma (C44_),Benign,
+M8405/0,Papillary hidradenoma ,Benign,
+M8405/3,Papillary hidradenocarcinoma,Malignant,Not listed in ICD-O-3.2
+M8406/0,Syringocystadenoma papilliferum (C44_),Benign,
+M8406/3,Syringocystadenocarcinoma papilliferum (C44_),Malignant, 
+M8407/0,"Syringoma, NOS (C44_)",Benign,
+M8407/2,"Sclerosing sweat duct carcinoma, in situ",In-Situ,Not listed in ICD-O-3.2
+M8407/3,Microcystic adnexal carcinoma (C44_),Malignant, 
+M8408/0,Eccrine papillary adenoma (C44_),Benign,
+M8408/1,"Aggressive digital papillary adenoma (C44_) (ICD-O-3.2 update, see code 8408/3)",Borderline,
+M8408/2,Eccrine papillary adenocarcinoma (C44_),In-Situ,Not listed in ICD-O-3.2
+M8408/3,"Digital papillary adenocarcinoma (C44_) ICD-O-3.2 update, previously 8408/1))",Malignant, 
+M8409/0,"Poroma, NOS (C44_)",Benign,
+M8409/2,Porocarcinoma in situ (C44_),In-Situ,
+M8409/3,"Porocarcinoma, NOS (C44_)",Malignant, 
+M8410/0,Sebaceoma (C44_),Benign,
+M8410/2,Sebaceous carcinoma in situ (C44_),In-Situ,Not listed in ICD-O-3.2
+M8410/3,Sebaceous carcinoma (C44_),Malignant, 
+M8413/2,"Eccrine adenocarcinoma, in situ (C44_)",In-Situ,Not listed in ICD-O-3.2
+M8413/3,Eccrine adenocarcinoma (C44_),Malignant, 
+M8420/0,Ceruminous adenoma (C442) ,Benign,
+M8420/3,Ceruminous adenocarcinoma (C442) ,Malignant,
+M8430/1,Mucoepidermoid tumor [OBS],Borderline,
+M8430/2,Mucoepidermoid carcinoma in situ,In-Situ,Not listed in ICD-O-3.2
+M8430/3,Mucoepidermoid carcinoma ,Malignant,
+M8440/0,"Cystadenoma, NOS",Benign,
+M8440/2,Cystadenocarcinoma in situ,In-Situ,Not listed in ICD-O-3.2
+M8440/3,"Cystadenocarcinoma, NOS",Malignant,
+M8441/0,"Serous cystadenoma, NOS (C569) (ICD-O-3 update, 8460/0 moved to this code)",Benign,
+M8441/2,Serous intraepithelial carcinoma (C569),In-Situ,
+M8441/3,"Serous carcinoma, NOS (C569)",Malignant,
+M8442/1,"Serous borderline tumor, NOS (C569)  (ICD-O-3 update, previously 8463/1)",Borderline, 
+M8442/2,"Serous cystadenoma, in situ (C569)",In-Situ,Not listed in ICD-O-3.2
+M8442/3,"Serous cystadenoma, malignant (C569) (ICD-O-3 update, 8463/3 moved to this code)",Malignant,
+M8443/0,Clear cell cystadenoma (C569),Benign,
+M8443/3,Clear cell cystadenocarcinoma (C569),Malignant,Not listed in ICD-O-3.2
+M8444/1,"Clear cell cystic tumor of borderline malignancy (C569) (ICD-O-3.2 update, see code 8313/1) ",Borderline,
+M8444/3,"Clear cell cystic tumor, malignant ",Malignant,Not listed in ICD-O-3.2
+M8450/0,"Papillary cystadenoma, NOS ",,
+M8450/3,"Papillary cystadenocarcinoma, NOS (C569)",Malignant, 
+M8451/1,"Papillary cystadenoma, borderline malignancy (C569)",Borderline,
+M8452/1,Solid pseudopapillary tumor of ovary (C569) (ICD-O-3.2 update) ,Borderline,
+M8452/2,"Solid pseudopapillary tumor, in situ (C25_)",In-Situ,Not listed in ICD-O-3.2
+M8452/3,Solid pseudopapillary carcinoma of the pancreas (C25_),Malignant, 
+M8453/0,Intraductal Papillary mucinous adenoma (C25_),Benign,
+M8453/2,Intraductal Papillary mucinous neoplasm with high grade dysplasia (C25_),In-Situ,
+M8453/3,Intraductal Papillary mucinous neoplasm with an associated invasive carcinoma (C25_),Malignant, 
+M8454/0,Cystic tumor of atrio-ventricular node (C380),Benign,
+M8455/2,"Intraductal oncocytic papillary neoplasma, NOS (C25) (2022 update",In-Situ,New code 2022+
+M8455/3,Intraductal oncocytic papillary neoplasm with associated invasive carcinoma (C25_) (2022 update),Malignant,New code 2022+
+M8460/2,"Serous borderine tumor, micropapillary variant (C569)",In-Situ,
+M8460/3,Low grade serous carcinoma (C569),Malignant,
+M8461/0,Serous surface papilloma (C569),Benign, 
+M8461/2,"Serous surface papilloma, in situ (C569)",In-Situ,Not listed in ICD-O-3.2
+M8461/3,Serous surface papillary carcinoma (C569),Malignant,
+M8462/2,Serous papillary cystadenocarcinoma in situ (C569),In-Situ,Not listed in ICD-O-3.2
+M8462/3,Papillary serous cystadenocarcinoma (C569),Malignant,Not listed in ICD-O-3.2
+M8463/1,"Serous surface papillary tumor of borderline malignancy (C569) (ICD-O-3.2 update, see code 8442/1) ",Borderline,
+M8463/3,Serous surface papillary carcinoma (C569) ,Malignant,Not listed in ICD-O-3.2
+M8470/0,"Mucinous cystadenoma (C569)  (ICD-O-3 update, now includes 8471/0)",Benign,
+M8470/2,"Mucinous cystic neoplams with high grade dysplasia (C25_) (ICD-O-3 update, now includes 8470/2)",In-Situ,
+M8470/3,"Mucinous cystadenocarcinoma, NOS (C569) (ICD-O-3 update, now includes 8471/3)",Malignant,
+M8471/0,"Papillary mucinous cystadenoma, NOS (C569) (ICD-O-3.2 update, see code 8470/0) ",Benign,
+M8471/2,"Papillary mucinous cystadenoca situ, NOS (C569) (ICD-O-3.2 update, see code 8470/2) ",In-Situ,
+M8471/3,"Papillary mucinous cystadenocarcinoma (C569) (ICD-O-3.2 update, see code 8470/3) ",Malignant,
+M8472/1,"Mucinous cystic tumor of borderline malignancy (C569) (ICD-O-3 update, 8473/1 moved to this code)",Borderline, 
+M8472/2,"Mucinous cystic adenocarcinoma in situ (C569) (ICD-O-update, 8473/2 moved to this code)",In-Situ,
+M8472/3,"Mucinous cystadenocarcinoma  (C569) (ICD-O-3 update, 8473/3 moved to this code)",Malignant,
+M8473/1,"Papillary mucinous cystadenoma, borderline malignancy (C569) (ICD-O-3.2 update, see code 8472/1) ",Borderline,
+M8473/2,"Papillary mucinous cystadenoma, in situ (C569) (ICD-O-3.2 update, see code 8472/2) ",In-Situ,Not listed in ICD-O-3.2
+M8473/3,"Papillary pseudomucinous cystadenocarcinoma (ICD-O-3.2 update, see code 8472/3) ",Malignant,Not listed in ICD-O-3.2
+M8474/0,Seromucinous cystadenoma (ICD-O-3.2 update) (C569),Benign,New code 2021+
+M8474/1,Seromucinous borderline tumor (ICD-O-3.2 update) (C569),Borderline,New code 2021+
+M8474/2,"Seromucinous carcinoma, in situ",In-Situ,Not listed in ICD-O-3.2
+M8474/3,Seromucinous carcinoma (ICD-O-3.2 update) (C569),Malignant,New code 2021+
+M8480/0,Mucinous adenoma,Benign,
+M8480/1,Low grade appendiceal mucinous neoplasm (C181),Borderline,
+M8480/2,Mucinous adenocarcinoma in situ,In-Situ,Not listed in ICD-O-3.2
+M8480/3,Mucinous adenocarcinoma ,Malignant,
+M8480/6,Pseudomyxoma peritonei (C809),Metastatic,Not a code used in the registry
+M8481/2,Mucin-producing adenocarcinoma in situ,In-Situ,Not listed in ICD-O-3.2
+M8481/3,Mucin-producing adenocarcinoma ,Malignant,
+M8482/3,"Mucinous adenocarcinoma, gastric type",Malignant,
+M8483/2,"Adenocarcinoma in situ, HPV associated (C53_) (2022 update)",In-Situ,New code 2022+
+M8483/3,Adenocarcinoma-HPV associated (C53_) (2022 update),Malignant,New code 2022+
+M8484/2,"Adenocarcinoma in situ, HPV independent, NOS (C53_) (2022 update)",In-Situ,New code 2022+
+M8484/3,"Adenocarcinoma, HPV-independent (C53_) (2022 update)",Malignant,New code 2022+
+M8490/2,Signet ring cell carcinoma in situ,In-Situ,Not listed in ICD-O-3.2
+M8490/3,Signet ring cell carcinoma,Malignant,
+M8490/6,Metastatic signet ring cell carcinoma,Metastatic,Not a code used in the registry
+M8500/2,"Intraductal carcinoma, noninfiltrating, NOS (C50_)",In-Situ,
+M8500/3,"Infiltrating duct carcinoma, NOS (C50_)",Malignant, 
+M8501/2,"Comedocarcinoma, noninfiltrating  (C50_)",In-Situ,
+M8501/3,"Comedocarcinoma, NOS (C50_)",Malignant,
+M8502/2,"Secretory carcinoma of breast, in situ (C50_)",In-Situ,Not listed in ICD-O-3.2
+M8502/3,Secretory carcinoma of breast (C50_),Malignant,
+M8503/0,Intraductal papilloma ,Benign,
+M8503/2,Noninfiltrating intraductal papillary adenocarcinoma (C50_),In-Situ,
+M8503/3,Intraductal papillary adenocarcinoma with invasion (C50_),Malignant, 
+M8504/0,Intracystic papillary adenoma,Benign,
+M8504/2,Intracystic carcinoma (ICD-O-3.2 update),In-Situ,
+M8504/3,"Intracystic carcinoma, NOS (ICD-O-3.2 update, see code 8504/2)",Malignant,
+M8505/0,"Intraductal papillomatosis, NOS",Benign,
+M8506/0,Adenoma of nipple (C50_),Benign, 
+M8507/2,Intraductal micropapillary carcinoma (C50_),In-Situ,
+M8507/3,Invasive micropapillary carcinoma of breast (C50_),Malignant,
+M8508/2,"Cystic hypersecretory carcinoma, in situ (C50_)",In-Situ,Not listed in ICD-O-3.2
+M8508/3,Cystic hypersecretory carcinoma (C50_),Malignant,
+M8509/2,Solid papillary carcinoma in situ (C50_) (ICD-O-3.2 update) ,In-Situ,
+M8509/3,Solid papillary carcinoma with invasion (C50_) (ICD-O-3.2 update) ,Malignant,
+M8510/2,Medullary carcinoma in situ (C739),In-Situ,Not listed in ICD-O-3.2
+M8510/3,"Medullary carcinoma, NOS (C739)",Malignant,
+M8512/3,Medullary carcinoma with lymphoid stroma (C50_),Malignant,
+M8513/3,Atypical medullary carcinoma (C50_),Malignant,
+M8514/3,"Duct carcinoma, desmoplastic type (C50_)",Malignant,
+M8519/2,"Lobular carcinoma in situ, pleomorphic (C50_) ICD-O-3.2 update) ",In-Situ,New code 2021+
+M8520/2,Lobular carcinoma in situ (C50_),In-Situ, 
+M8520/3,"Lobular carcinoma, NOS (C50_)",Malignant,
+M8521/2,Ductular carcinoma in situ (C50_),In-Situ,Not listed in ICD-O-3.2
+M8521/3,Infiltrating ductular carcinoma (C50_),Malignant, 
+M8522/2,Intraductal and lobular in situ carcinoma (C50_),In-Situ,
+M8522/3,Infiltrating duct and lobular carcinoma (C50_),Malignant,
+M8523/2,Intraductal with other types of carcinoma in situ (C50_),In-Situ,Not listed in ICD-O-3.2
+M8523/3,Infiltrating duct mixed with other types of carcinoma (C50_),Malignant,
+M8524/2,"Infiltrating lobular mixed with other types of carcinoma, in situ (C50_)",In-Situ,Not listed in ICD-O-3.2
+M8524/3,Infiltrating lobular mixed with other types of carcinoma (C50_),Malignant,
+M8525/2,"Polymorphous low grade adenocarcinoma, in situ",In-Situ,Not listed in ICD-O-3.2
+M8525/3,Polymorphous adenocarcinoma ,Malignant,
+M8530/3,Inflammatory carcinoma (C50_),Malignant,
+M8540/2,"Paget disease, mammary in situ (C50_)",In-Situ,Not listed in ICD-O-3.2
+M8540/3,"Paget disease, mammary (C50_)",Malignant,
+M8541/2,Paget disease in situ and ductal carcinoma (C50_),In-Situ,Not listed in ICD-O-3.2
+M8541/3,Paget disease and infiltrating ductal carcinoma of breast (C50_),Malignant,
+M8542/2,"Paget disease (in situ), extramammary (except Paget disease of bone) (C50_)",In-Situ,Not listed in ICD-O-3.2
+M8542/3,"Paget disease, extramammary (C25_)",Malignant,
+M8543/2,Paget disease in situ and intraductal carcinoma (C50_),In-Situ,Not listed in ICD-O-3.2
+M8543/3,Paget disease and intraductal carcinoma of the breast  (C50_),Malignant,
+M8550/0,Acinar cell adenoma,Benign,
+M8550/1,Acinar cell tumor,Borderline,
+M8550/2,Acinar cell carcinoma in situ,In-Situ,Not listed in ICD-O-3.2
+M8550/3,Acinar cell carcinoma ,Malignant,
+M8551/3,Acinar cell cystadenocarcinoma,Malignant,
+M8552/3,Mixed acinar-ductal carcinoma,Malignant,
+M8560/0,Mixed squamous cell and glandular papilloma,Benign,
+M8560/2,Squamous cell carcinoma in situ and glandular papilloma,In-Situ,Not listed in ICD-O-3.2
+M8560/3,Adenosquamous carcinoma,Malignant,
+M8561/0,"Adenolymphoma (C07_, C08_)",Benign, 
+M8561/3,"Warthin tumor, malignant (C07_, C08_)",Malignant,Not listed in ICD-O-3.2
+M8562/2,Epithelial-myoepithelial carcinoma in situ,In-Situ,Not listed in ICD-O-3.2
+M8562/3,Epithelial-myoepithelial carcinoma,Malignant,
+M8563/0,Lymphadenoma (ICD-O-3.2 update),Benign,
+M8570/2,Adenocarcinoma in situ with squamous metaplasia,In-Situ,Not listed in ICD-O-3.2
+M8570/3,Adenocarcinoma with squamous metaplasia,Malignant,
+M8571/3,Adenocarcinoma with cartilaginous and osseous metaplasia,Malignant,
+M8572/0,Adenoma with spindle cell metaplasia,Benign,Not listed in ICD-O-3.2
+M8572/3,Adenocarcinoma with spindle cell metaplasia,Malignant,
+M8573/2,Adenocarcinoma in situ with apocrine metaplasia,In-Situ,Not listed in ICD-O-3.2
+M8573/3,Adenocarcinoma with apocrine metaplasia,Malignant,
+M8574/2,Adenocarcinoma in situ with neuroendocrine differentiation,In-Situ,Not listed in ICD-O-3.2
+M8574/3,Adenocarcinoma with neuroendocrine differentiation ,Malignant,
+M8575/3,"Metaplastic carcinoma, NOS ",Malignant,
+M8576/3,Hepatoid adenocarcinoma,Malignant,
+M8580/0,Microscopic thymoma,Benign, 
+M8580/1,"Thymoma, NOS (C379) (ICD-O-3.2 update, see code 8580/3) ",Borderline,
+M8580/2,"Thymoma, in situ, NOS (C379)",In-Situ,
+M8580/3,"Thymoma, NOS (C379)  (ICD-O-3.2 update, previously 8580/1)",Malignant,
+M8581/1,"Thymoma, type A, NOS (C379) (ICD-O-3.2 update, see code 8581/3) ",Borderline,
+M8581/3,"Thymoma, type A (C379) (ICD-O-3.2 update, previously 8581/1)",Malignant,
+M8582/1,"Thymoma, type AB, NOS (C379) (ICD-O-3.2 update, see code 8582/3) ",Borderline,
+M8582/3,"Thymoma, type AB (C379) (ICD-O-3.2 update, previously 8582/1)",Malignant, 
+M8583/1,"Thymoma, type B1, NOS (C379) (ICD-O-3.2 update, see code 8583/3) ",Borderline,
+M8583/3,"Thymoma, type B1 (C379) (ICD-O-3.2 update, previously 8585/1)",Malignant,
+M8584/1,"Thymoma, type B2, NOS (C379) (ICD-O-3.2 update, see code 8584/3)",Borderline,
+M8584/3,"Thymoma, type B2 (C379) (ICD-O-3.2 update, previously 8584/1)",Malignant,
+M8585/1,"Thymoma, type B3, NOS (C379) (ICD-O-3.2 update, see code 8585/3) ",Borderline,
+M8585/3,"Thymoma, type B3 (C379) (ICD-O-3.2, previously 8585/1)",Malignant, 
+M8586/3,"Thymic carcinoma, NOS (C379)",Malignant,
+M8587/0,Ectopic hamartomatous thymoma ,Benign,
+M8588/3,Spindle epithelial tumor with thymus-like element (C379),Malignant,
+M8589/3,Intrathyroid thymic carcinoma (C379),Malignant,
+M8590/0,Sex cord-stromal tumor benign (ICD-O-3.2 update) ,Benign,New code 2021+
+M8590/1,"Sex cord-gonadal stromal tumor, NOS (C569 [F], C62_[M])",Borderline,
+M8590/3,"Sex cord-gonadal stromal tumor, malignant, NOS (C569 [F], C62_[M])",Malignant,Not listed in ICD-O-3.2
+M8591/1,"Sex cord-gonadal stromal tumor, incompletely differentiated (C569 [F], C62_[M])",Borderline,
+M8591/1,"Sex cord-gonadal stromal tumor, incompletely differentiated",Borderline,
+M8592/1,"Sex cord-gonadal stromal tumor, mixed forms (C569 [F], C62_[M])",Borderline,
+M8593/1,Stromal tumor with minor sex cord elements (C569),Borderline,
+M8593/3,"Malignant stromal tumor, with sex cord elements (C569)",Malignant,Not listed in ICD-O-3.2
+M8594/1,"Mixed germal cell-sex cord-stromal tumor, NOS (ICD-O-3.2 update) (C569 [F], C62_[M])",Borderline,
+M8600/0,"Thecoma, NOS (C569)",Benign, 
+M8600/3,"Thecoma, malignant  (C569)",Malignant,
+M8601/0,"Thecoma, luteinized (C569)",Benign,
+M8602/0,Sclerosing stromal tumor (C569),Benign, 
+M8602/3,"Sclerosing stromal tumor, malignant  (C569)",Malignant,
+M8610/0,"Luteoma, NOS (C569)",Benign,
+M8620/1,"Adult granulosa cell tumor of testis (C62-) (ICD-O-3.2 update, see 8620/3)",Borderline,
+M8620/3,"Adult granulosa tumor of ovary (C569) (ICD-O-3.2 update, previously 8620/1)",Malignant,
+M8621/1,Granulosa cell-theca cell tumor  (C569),Borderline,
+M8621/3,"Granulosa cell-theca cell tumor, malignant  (C569)",Malignant,Not listed in ICD-O-3.2
+M8622/0,"Granulosa cell tumor of the testis, juvenile C62_) (ICD-O-3.2 update) ",Benign,
+M8622/1,"Granulosa cell tumor,  juvenile (C569)",Borderline,
+M8622/3,"Juvenile granulosa cell tumor, malignant  (C569)",Malignant,Not listed in ICD-O-3.2
+M8623/1,Sex cord tumor with annular tubules (C569),Borderline,
+M8623/3,"Sex cord tumor with annular tubules, malignant  (C569)",Malignant,Not listed in ICD-O-3.2
+M8630/0,"Androblastoma, benign  (C569 [F], C62_[M])",Benign,
+M8630/1,"Androblastoma, NOS (C569 [F], C62_[M])",Borderline,
+M8630/3,"Androblastoma, malignant (C569 [F], C62_[M])",Malignant,
+M8631/0,"Sertoli-Leydig cell tumor, well differentiated (C569 [F], C62_[M])",Benign,
+M8631/1,"Sertoli-Leydig cell tumor of intermediate differentiation (C569 [F], C62_[M])",Borderline,
+M8631/3,"Sertoli-Leydig cell tumor, poorly differentiated (C569 [F], C62_[M])",Malignant,
+M8632/1,Gynandroblastoma (C569 ),Borderline,
+M8632/3,"Gynandroblastoma, malignant (C569 )",Malignant,Not listed in ICD-O-3.2
+M8633/1,"Sertoli-Leydig cell tumor, retiform (C569 [F], C62_[M])",Borderline,
+M8633/3,"Sertoli-Leydig cell tumor, retiform, malignant (C569 [F], C62_[M])",Malignant,Not listed in ICD-O-3.2
+M8634/1,"Sertoli-Leydig cell tumor, intermediate differentiation, with heterologous elements (C569 [F], C62_[M])",Borderline,
+M8634/3,"Sertoli-Leydig cell tumor, poorly differentiated with heterologous elements (C569 [F], C62_[M])",Malignant,
+M8640/1,"Sertoli cell tumor, NOS (C569 [F], C62_[M])",Borderline,
+M8640/3,"Sertoli cell carcinoma  (C569 [F], C62_[M])",Malignant,
+M8641/0,"Sertoli cell tumor with lipid storage  (C569 [F], C62_[M])",Benign,
+M8642/1,"Large cell calcifying Sertoli cell tumor  (C569 [F], C62_[M])",Borderline,
+M8642/3,"Large cell calcifying Sertoli cell tumor, malignant  (C569 [F], C62_[M])",Malignant,Not listed in ICD-O-3.2
+M8643/1,Intratulbar large cell hyalinizing Sertoli cell neoplasia (ICD-O-3.2 update),Borderline,New code 2021+
+M8650/0,"Leydig cell tumor of ovary, NOS (ICD-O-3.2 update) (C569)",Benign,
+M8650/1,"Leydig cell tumor of testis, NOS (C629) (ICD-O-3.2 update)",Borderline,
+M8650/3,"Leydig cell tumor, malignant (C62_)",Malignant,
+M8660/0,Hilus cell tumor (C569),Benign,
+M8670/0,Lipid cell tumor of ovary (C569),Benign,
+M8670/3,"Steroid cell tumor, malignant (C569)",Malignant,
+M8671/0,Adrenal rest tumor ,Benign,
+M8680/0,"Paraganglioma, benign (C755) (ICD-O-3.2 update, see code 8680/3) ",Benign,
+M8680/1,"Paraganglioma, NOS (C755) (ICD-O-3.2 update, see code 8680/3) (C755)",Borderline,
+M8680/3,"Paraganglioma, NOS (C755) (ICD-O-3.2 update, previously 8680/0, 8680/1)",Malignant,
+M8681/1,"Sympathetic paraganglioma (C755) (ICD-O-3.2 update, see code 8681/3)",Borderline,
+M8681/3,"Sympathetic paraganglioma (C755) (ICD-O-3.2 update, previously 8681/1)",Malignant,
+M8682/1,"Parasympathetic paraganglioma (C755) (ICD-O-3.2 update, see code 8682/3) ",Borderline,
+M8682/3,"Parasympathetic paraganglioma (C755) (ICD-O-3.2 update, previously 8682/1)",Malignant,
+M8683/0,Gangliocytic paraganglioma (C170),Benign,
+M8683/3,"Gangliocytic paraganglioma, malignant (C170)",Malignant,Not listed in ICD-O-3.2
+M8690/1,"Glomus jugulare tumor, NOS (C755) (ICD-O-3.2 update, see code 8690/3)",Borderline,
+M8690/3,"Middle ear paraganglioma (C755) (ICD-O-3.2 update, previously 8690/1)",Malignant,
+M8691/1,"Aortic body tumor (C755) (ICD-O-3.2 update, see code 8691/3) ",Borderline,
+M8691/3,"Aortic body tumor (C755) ICD-O-3.2 update, previously 8691/1)",Malignant,
+M8692/1,"Carotid body tumor (C754) (ICD-O-3.2 update, see code 8692/3) ",Borderline,
+M8692/3,"Carotid body paraganglioma (C754) (ICD-O-3.2 update, previously 8692/1)",Malignant,
+M8693/1,"Extra-adrenal paraganglioma, NOS (C755) (ICD-O-3.2 update, see code 8693/3) ",Borderline,
+M8693/3,"Extra-adrenal paraganglioma, NOS (C755) (ICD-O-3.2 update, previously 8693/1)",Malignant,
+M8700/0,"Pheochromocytoma, NOS (C741) (ICD-O-3.2 update, see code 8700/3) ",Benign,
+M8700/3,"Pheochromocytoma, NOS (C741) (ICD-O-3.2 update, previously 8700/0)",Malignant,
+M8710/3,Glomangiosarcoma (C49_),Malignant,
+M8711/0,"Glomus tumor, NOS ",Benign,
+M8711/1,Glomangiomatosis (ICD-O-3.2 update) ,Borderline,
+M8711/3,"Glomus tumor, malignant (C49_)",Malignant,
+M8712/0,Glomangioma ,Benign, 
+M8712/3,"Glomangioma, malignant ",Malignant,Not listed in ICD-O-3.2
+M8713/0,Glomangiomyoma ,Benign,
+M8713/3,"Glomangiomyoma, malignant",Malignant,Not listed in ICD-O-3.2
+M8714/0,"Perivascular epithelioid tumor, benign (ICD-O-3.2 update)",Benign,
+M8714/3,"Perivascular, epithelioid tumor, malignant (ICD-O-3.2 update)",Malignant,
+M8720/0,"Pigmented nevus, NOS (C44_)",Benign,
+M8720/2,Melanoma in situ (C44_),In-Situ,
+M8720/3,"Malignant melanoma, NOS (C44_)",Malignant,
+M8721/2,"Nodular melanoma, in situ (C44_)",In-Situ,Not listed in ICD-O-3.2
+M8721/3,Nodular melanoma (C44_),Malignant,
+M8722/0,Balloon cell nevus (C44_),Benign,
+M8722/2,"Balloon cell melanoma, in situ (C44_)",In-Situ,Not listed in ICD-O-3.2
+M8722/3,Balloon cell melanoma (C44_),Malignant,
+M8723/0,Halo nevus C44_),Benign,
+M8723/2,"Melanoma in situ, regressing (C44_)",In-Situ,Not listed in ICD-O-3.2
+M8723/3,"Malignant melanoma, regressing (C44_)",Malignant,
+M8725/0,Neuronevus (C44_),Benign,
+M8726/0,Magnocellular nevus (C694),Benign,
+M8726/3,Malignant melanoma in magnocellular nevus (C694),Malignant,Not listed in ICD-O-3.2
+M8727/0,Dysplastic nevus ( C44_),Benign,
+M8727/3,"Dysplastic nevus, malignant (C44_)",Malignant,Not listed in ICD-O-3.2
+M8728/0,Meningeal melanocytosis (C70_),Benign,
+M8728/1,Meningeal melanocytoma (C70_),Borderline,
+M8728/3,Meningeal melanomastosis (C70_),Malignant,
+M8730/0,Nonpigmented nevus (C44_),Benign,
+M8730/2,Melanoma in situ in junctional nevus (C44_),In-Situ,Not listed in ICD-O-3.2
+M8730/3,Amelanotic melanoma (C44_),Malignant,
+M8740/0,"Junctional nevus, NOS (C44_)",Benign,
+M8740/2,Melanoma in situ in junctional nevus (C44_),In-Situ,Not listed in ICD-O-3.2
+M8740/3,Malignant melanoma in junctional nevus (C44_),Malignant,
+M8741/2,"Precancerous melanosis, NOS (C44_)",In-Situ,
+M8741/3,Malignant melanoma in precancerous melanosis (C44_),Malignant,
+M8742/0,Lentiginous melanocytic nevus (C44_) (ICD-O-3.2 update),Benign,
+M8742/2,Lentigo maligna (C44_),In-Situ,
+M8742/3,Lentigo maligna melanoma (C44_),Malignant,
+M8743/2,"Low cumulative sun damage melanoma, in situ (C44_)",In-Situ,Not listed in ICD-O-3.2
+M8743/3,Low cumulative sun damage melanoma (C44_),Malignant,
+M8744/0,Lentinguous melanocytic nevus (C44_) (ICD-O-3.2 update),Benign,
+M8744/2,"Acral lentiginous melanoma, in situ (C44_)",In-Situ,Not listed in ICD-O-3.2
+M8744/3,"Acral lentiginous melanoma, in malignant (C44_)",Malignant,
+M8745/2,"Desmoplastic melanoma, in situ (C44_)",In-Situ,Not listed in ICD-O-3.2
+M8745/3,"Desmoplastic melanoma, malignant (C44_)",Malignant,
+M8746/2,Mucosal lentiginous melanoma in situ ,In-Situ,Not listed in ICD-O-3.2
+M8746/3,Mucosal lentiginous melanoma ,Malignant,
+M8750/0,Dermal nevus (C44_),Benign,
+M8760/0,Compound nevus (C44_),Benign,
+M8760/2,Melanoma in situ in compound nevus (C44_),In-Situ,Not listed in ICD-O-3.2
+M8761/0,"Congenital melanocytic nevus, NOS (C44_)",Benign,
+M8761/1,"Giant pigmented nevus, NOS (C44_)",Borderline,
+M8761/2,Melanoma in situ in giant pigmented nevus (C44_),In-Situ,Not listed in ICD-O-3.2
+M8761/3,Malignant melanoma in giant congenital nevus (C44_),Malignant,
+M8762/1,Proliferative dermal lesion in congenital nevus (C44_),Borderline,
+M8770/0,Epithelioid and spindle cell nevus (C44_),Benign,
+M8770/2,Epithelioid and spindle cell melanoma in situ (C44_),In-Situ,Not listed in ICD-O-3.2
+M8770/3,Malignant Spitz tumor (C44_),Malignant,
+M8771/0,Epithelioid cell nevus (C44_),Benign,
+M8771/2,Epithelioid cell melanoma in situ (C44_),In-Situ,Not listed in ICD-O-3.2
+M8771/3,Epithelioid cell melanoma (C44_),Malignant,
+M8772/0,"Spindle cell nevus, NOS (C44_)",Benign,
+M8772/2,"Spindle cell melanoma in situ, NOS (C44_) ",In-Situ,Not listed in ICD-O-3.2
+M8772/3,"Spindle cell melanoma, NOS  (C44_)",Malignant,
+M8773/3,"Spindle cell melanoma, type A (C69_)",Malignant,
+M8774/3,"Spindle cell melanoma, type B (C69_)",Malignant,
+M8780/0,"Blue nevus, NOS (C44_)",Benign,
+M8780/1,Pigmented epithelioid melanocytoma (C44_) (ICD-O-3.2 update) ,Borderline,New code 2021+
+M8780/3,"Blue nevus, malignant (C44_)",Malignant,
+M8790/0,Cellular blue nevus  (C44_),Benign,
+M8790/3,"Cellular blue nevus, malignant (C44_)",Malignant,
+M8800/0,"Soft tissue tumor, benign (C49_)",Benign,
+M8800/3,"Sarcoma, NOS  (C49_)",Malignant,
+M8800/9,Sarcomatosis (C809),Unknown,Not a code used in the registry
+M8801/3,Spindle cell sarcoma  (C49_),Malignant,
+M8802/1,Pleomorphic hyalinizing angiectatic tumor (C49_) (ICD-O-3.2 update) ,Borderline,New code 2021+
+M8802/3,Giant cell sarcoma  (C49_),Malignant,
+M8803/3,Small cell sarcoma  (C49_),Malignant,
+M8804/3,Epithelioid sarcoma  (C49_),Malignant,
+M8805/3,Undifferentiated sarcoma (C49_),Malignant,
+M8806/3,Desmoplastic small round cell tumor  (C49_),Malignant,
+M8810/0,"Fibroma, NOS (C49_)",Benign,
+M8810/1,Cellular fibroma (C569),Borderline,
+M8810/3,"Fibrosarcoma, NOS (C49_)",Malignant,
+M8811/0,Fibromyxoma (C49_),Benign,
+M8811/1,Myxoinflammatory fibroblastic sarcoma (C49_) (ICD-O-3.2 update) ,Borderline,
+M8811/3,Myxofibrosarcoma (C49_),Malignant,
+M8812/0,"Periosteal fibroma (C40_, C41_)",Benign,
+M8812/3,"Periosteal fibrosarcoma (C40_,C41_)",Malignant,
+M8813/0,Fibroma of tendon sheath ,Benign,
+M8813/1,Palmar/plantar type fibromatosis (C49_) (ICD-O-3.2 update),Borderline,
+M8813/3,Fascial fibrosarcoma (C49_),Malignant,
+M8814/3,Infantile fibrosarcoma (C49_),Malignant,
+M8815/0,"Solitary fibrous tumor/Hemangiopericytoma, grade 1 (C49_) (ICD-O-3.2 update, see code 8815/1) ",Benign,
+M8815/1,"Solitary fibrous tumor, NOS (C49_) (ICD-O-3.2 update, previously 8815/0, 9150/0, 9150/1)",Borderline,
+M8815/3,"Solitary fibrous tumor, malignant (C49_)",Malignant,
+M8816/0,Calcifying aponeurotic fibroma (ICD-O-3.2 update),Benign,
+M8817/0,Calcifying fibrous tumor (ICD-O-3.2 update),Benign,
+M8818/0,Fibrous dysplasia (ICD-O-3.2 update),Benign,
+M8820/0,Elastofibroma (C49_),Benign,
+M8821/1,Aggressive fibromatosis  (C49_),Borderline,
+M8821/3,"Aggressive fibromatosis, malignant (C49_)",Malignant,Not listed in ICD-O-3.2
+M8822/1,Abdominal fibromatosis (C49_),Borderline,
+M8822/3,"Abdominal fibrosis, malignant (C49_)",Malignant,Not listed in ICD-O-3.2
+M8823/0,"Desmoplastic fibroma, benign (C49_) (ICD-O-3.2 update, see code 8823/1)",Benign,
+M8823/1,Desmoplastic fibroma (C49_),Borderline,
+M8823/3,Desmoplastic fibrosarcoma (C49_),Malignant,Not listed in ICD-O-3.2
+M8824/0,Myofibroma (C49_),Benign,
+M8824/1,Myofibromatosis (C49_),Borderline,
+M8824/3,"Myofibroma, malignant (C49_)",Malignant,Not listed in ICD-O-3.2
+M8825/0,Myofibroblastoma (C49_),Benign,
+M8825/1,"Myofibroblastic tumor, NOS (C49_)",Borderline,
+M8825/3,Myofibroblastic sarcoma (C49_),Malignant,
+M8826/0,Angiomyofibroblastoma (C49_),Benign,
+M8826/3,"Angiomyofibroblastoma, malignant (C49_)",Malignant,Not listed in ICD-O-3.2
+M8827/1,"Myofibroblastic tumor, peribronchial (C34_)",Borderline,
+M8828/0,Nodular fascitis (ICD-O-3.2 update),Benign,
+M8830/0,Benign fibrous histiocytoma (C49_),Benign,
+M8830/1,Atypical fibrous histiocytoma (C49_),Borderline,
+M8830/3,Malignant fibrous histiocytoma (C49_),Malignant,
+M8831/0,"Histiocytoma, NOS (C49_)",Benign,
+M8831/3,"Histiocytoma, NOS, malignant (C49_)",Malignant,
+M8832/0,"Dermatofibroma, NOS (C44_)",Benign,
+M8832/1,"Dermatofibrosarcoma protuberans, NOS (C44_) (ICD-O-3.2 update, previously 8832/3) ",Borderline,
+M8832/3,"Dermatofibrosarcoma, NOS (C44_) (ICD-O-3.2 update, see 8832/1) ",Malignant,
+M8833/1,"Pigmented dermatofibrosarcoma protuberans (C44_) (ICD-O-3.2 update, previously 8833/3) ",Borderline,
+M8833/3,"Pigmented dermatofibrosarcoma protuberans (C44_) (ICD-O-3.2 update, see code 8833/1) ",Malignant,
+M8834/1,Giant cell fibroblastoma,Borderline,
+M8835/1,Plexiform fibrohistiocytic tumor ,Borderline,
+M8835/3,Malignant plexiform fibrohistiocytic tumor,Malignant,Not listed in ICD-O-3.2
+M8836/1,Angiomatoid fibrous histiocytoma,Borderline,
+M8836/3,Malignant angiomatoid fibrous histiocytoma,Malignant,Not listed in ICD-O-3.2
+M8840/0,"Myxoma, NOS (C49_)",Benign,
+M8840/3,Myxosarcoma (C49_),Malignant,
+M8841/0,"Angiomyxoma, NOS (C49_) (ICD-O-3.2 update, previously 8841/1) ",Benign,
+M8841/1,"Angiomyxoma (C49_) (ICD-O-3.2 update, see code 8841/0) ",Borderline,
+M8841/3,"Angiomyxoma, malignant (C49_)",Malignant,Not listed in ICD-O-3.2
+M8842/0,"Ossifying fibromyxoid tumor, NOS ",Benign,
+M8842/3,"Ossifying fibromyxoid tumor, malignant",Malignant,
+M8850/0,"Lipoma, NOS (C49_)",Benign,
+M8850/1,Atypical lipomatous tumor (C49_),Borderline,
+M8850/3,"Liposarcoma, NOS (C49_)",Malignant, 
+M8851/0,Fibrolipoma (C49_),Benign,
+M8851/1,Lipofibromatosis (ICD-O-3.2 update) (C49_),Borderline,New code 2021+
+M8851/3,"Liposarcoma, well differentiated (C49_)",Malignant,
+M8852/0,Fibromyxolipoma (C49_),Benign,
+M8852/3,Myxoid liposarcoma (C49_),Malignant,
+M8853/3,Round cell liposarcoma (C49_),Malignant,
+M8854/0,Pleomorphic lipoma (C49_),Benign,
+M8854/3,Pleomorphic liposarcoma (C49_),Malignant,
+M8855/3,Mixed liposarcoma (C49_),Malignant,
+M8856/0,Intramuscular lipoma (C49_),Benign,
+M8857/0,Spindle cell lipoma (C49_),Benign,
+M8857/3,Fibroblastic liposarcoma (C49_),Malignant,
+M8858/3,Dedifferentiated liposarcoma (C49_),Malignant,
+M8859/3,Myxoid pleomorphic liposarcoma (C49) (2022 update),Malignant,New code 2022+
+M8860/0,Angiomyolipoma (C49_),Benign,
+M8860/1,"Angiomyolipoma, epithelioid (C49)",Borderline,
+M8860/3,Angiomyoliposarcoma (C49_),Malignant,Not listed in ICD-O-3.2
+M8861/0,"Angiolipoma, NOS",Benign,
+M8862/0,Chondroid lipoma,Benign,
+M8870/0,Myelolipoma,Benign,
+M8880/0,Hibernoma,Benign,
+M8881/0,Lipoblastomatosis,Benign,
+M8890/0,"Leiomyoma, NOS (C54_)",Benign,
+M8890/1,"Leiomyomastosis, NOS (C54_)",Borderline,
+M8890/3,"Leiomyosarcoma, NOS (C54_)",Malignant,
+M8891/0,Epithelioid leiomyoma (C49_),Benign,
+M8891/3,Epithelioid leiomyosarcoma (C49_),Malignant,
+M8892/0,Cellular leiomyoma (C49_),Benign,
+M8893/0,Bizarre leiomyoma (C49_),Benign,
+M8893/3,"Bizarre leiomyoma, malignant (C49_)",Malignant,Not listed in ICD-O-3.2
+M8894/0,Angiomyoma (C49_),Benign,
+M8894/3,Angiomyosarcoma (C49_),Malignant,
+M8895/0,Myoma (C49_),Benign,
+M8895/3,Myosarcoma (C49_),Malignant,
+M8896/0,Myxoid leiomyoma (C49_) (ICD-O-3.2 update) ,Benign,
+M8896/3,Myxoid leiomyosarcoma (C49_),Malignant,
+M8897/1,Smooth muscle tumor of uncertain malignant potential (C49_),Borderline,
+M8897/3,Malignant tumor of smooth muscle (C49_),Malignant,Not listed in ICD-O-3.2
+M8898/1,Metastasizing leiomyoma (C49_),Borderline,
+M8900/0,"Rhabdomyoma, NOS (C49_)",Benign,
+M8900/3,"Rhabdomyosarcoma, NOS (C49_)",Malignant,
+M8901/3,"Pleomorphic rhabdomyosarcoma, adult type (C49_)",Malignant,
+M8902/3,Mixed type rhabdomyosarcoma (C49_),Malignant,
+M8903/0,Fetal rhabdomyoma (C49_),Benign,
+M8904/0,Adult cellular rhabdomyoma (C49_),Benign,
+M8905/0,"Genital rhabdomyoma (C51_, C529)",Benign,
+M8910/3,"Embryonal rhabdomyosarcoma, NOS (C49_)",Malignant,
+M8912/3,Spindle cell rhabdomyosarcoma (C49_),Malignant,
+M8920/3,Alveolar rhabdomyosarcoma (C49_),Malignant,
+M8921/3,Ectomesenchymoma (C49_),Malignant,
+M8930/0,Endometrial stromal nodule (C541),Benign,
+M8930/3,"Endometrial stromal sarcoma, NOS (C541)",Malignant,
+M8931/3,"Endometrial stroma sarcoma, low grade (C541)",Malignant,
+M8932/0,Adenomyoma,Benign,
+M8933/3,Adenosarcoma,Malignant,
+M8934/3,Carcinofibroma,Malignant,
+M8935/0,"Stromal tumor, benign (C541)",Benign,
+M8935/1,"Stromal tumor, NOS (C541)",Borderline,
+M8935/3,"Stromal sarcoma, NOS (C541)",Malignant,
+M8936/0,"Gastrointestinal stromal tumor, benign (C269) (ICD-O-3.2 update, code deleted, see 8936/3) ",Benign,
+M8936/1,"Gastrointestinal stromal tumor, NOS  (ICD-O-3.2 update, see code 8936/3) ",Borderline,
+M8936/2,"Gastrointestinal stromal tumor, NOS, in situ (ICD-O-3.2 update, see code 8936/3) ",In-Situ,
+M8936/3,Gastrointestinal stromal sarcoma ,Malignant,
+M8940/0,"Pleomorphic adenoma (C07_, C08_)",Benign,
+M8940/3,"Mixed tumor, malignant, NOS (C07_, C08_)",Malignant,
+M8941/2,"Carcinoma in situ in pleomorphic adenoma (C07_, C08_)",In-Situ,Not listed in ICD-O-3.2
+M8941/3,"Carcinoma ex pleomorphic adenoma (C07_, C08_)",Malignant,
+M8950/3,Mullerian mixed tumor (C54_),Malignant,
+M8951/3,Mesodermal mixed tumor (C220),Malignant,
+M8959/0,Benign cystic nephroma (C649),Benign,
+M8959/1,Cystic partially differentiated nephroblastoma (C649),Borderline,
+M8959/3,Malignant cystic nephroma (C649),Malignant,
+M8960/1,Mesoblastic nephroma (C649),Borderline,
+M8960/3,"Nephroblastoma, NOS (C649)",Malignant,
+M8963/3,Rhabdoid tumor,Malignant,
+M8964/3,Clear cell sarcoma of kidney (C649),Malignant,
+M8965/0,"Nephrogenic adenofibroma (C649) (ICD-O-3.2 update, see code 9013/0)",Benign,
+M8966/0,Renomedullary interstitial cell tumor (C649),Benign,
+M8996/3,"Medullary fibroma, malignant (C649)",Malignant,Not listed in ICD-O-3.2
+M8967/0,Ossifying renal tumor (C649),Benign,
+M8970/3,Hepatoblastoma (C220),Malignant,
+M8971/3,Pancreastoblastoma (C25_),Malignant,
+M8972/3,Pulmonary blastoma (C34_),Malignant,
+M8973/3,Pleuropulmonary blastoma (C34_),Malignant,
+M8974/1,Sialoblastoma,Borderline,
+M8975/1,Calcifying nested epithelial stromal tumor (C220),Borderline,
+M8976/3,Gastroblastoma (C16) (2022 update),Malignant,New code 2022+
+M8980/3,"Carcinosarcoma, NOS",Malignant,
+M8981/3,"Carcinosarcoma, embryonal ",Malignant,
+M8982/0,"Myoepithelioma, NOS",Benign,
+M8982/3,Myoepithelial carcinoma,Malignant,
+M8983/0,"Adenomyoepithelioma, NOS (C50_)",Benign,
+M8983/2,"Adenomyoepithelioma, in situ (C50_)",In-Situ,Not listed in ICD-O-3.2
+M8983/3,Adenomyoepithelioma with carcinoma (C50_),Malignant,
+M8990/0,"Mesenchymoma, benign (C49_)",Benign,
+M8990/1,"Mesenchymoma, NOS (C49_)",Borderline,
+M8990/3,"Mesenchymoma, malignant (C49_)",Malignant,
+M8991/3,Embryonal sarcoma (C49_),Malignant,
+M8992/0,Pulmonary hamartoma (ICD-O-3.2 update) (C34_),Benign,New code 2021+
+M9000/0,"Brenner tumor, NOS (C569)",Benign,
+M9000/1,"Brenner tumor, borderline malignancy (C569)",Borderline,
+M9000/3,"Brenner tumor, malignant  (C569)",Malignant, 
+M9010/0,"Fibroadenoma, NOS (C50_)",Benign,
+M9011/0,Intracanalicular fibroadenoma  (C50_),Benign,
+M9012/0,Pericanalicular fibroadenoma (C50_),Benign,
+M9013/0,"Adenofibroma, NOS (C569)",Benign,
+M9014/0,"Serous adenofibroma, NOS (C569)",Benign,
+M9014/1,Serous adenofibroma of borderline malignancy (C569),Borderline,
+M9014/2,"Serous adenocarcinofibroma, in situ (C569)",In-Situ,Not listed in ICD-O-3.2
+M9014/3,Serous adenocarcinofibroma (C569),Malignant,
+M9015/0,"Mucinous adenofibroma, NOS (C569)",Benign,
+M9015/1,Mucinous adenofibroma of borderline malignancy (C569),Borderline,
+M9015/2,"Mucinous adenofibroma, in situ",In-Situ,Not listed in ICD-O-3.2
+M9015/3,Mucinous adenocarcinofibroma (c569),Malignant,
+M9016/0,Giant fibroadenoma (C50_),Benign,
+M9020/0,"Phyllodes tumor, benign (C50_)",Benign,
+M9020/1,"Phyllodes tumor, borderline (C50_)",Borderline,
+M9020/3,"Phyllodes tumor, malignant (C50_)",Malignant,
+M9030/0,Juvenile fibroadenoma (C50_),Benign,
+M9040/0,"Synovioma, benign (C49_)",Benign,
+M9040/3,"Synovial sarcoma, NOS (C49_)",Malignant,
+M9041/3,"Synovial sarcoma, spindle cell (C49_)",Malignant,
+M9042/3,"Synovial sarcoma, epithelioid cell (C49_)",Malignant,
+M9043/3,"Synovial sarcoma, biphasic (C49_)",Malignant,
+M9044/3,"Clear cell sarcoma, NOS  (C49_)",Malignant,
+M9045/3,"Biphenotypic sinonasal sarcoma (C300, C31_) (ICD-O-3.2 update) ",Malignant,New code 2021+
+M9050/0,"Mesothelioma, benign (C384)",Benign,
+M9050/2,"Mesothelioma, in situ  (2023 update)",In-Situ,
+M9050/3,"Mesothelioma, malignant (C384)",Malignant,
+M9051/0,"Fibrous mesothelioma, benign (C384)",Benign,
+M9051/3,"Fibrous mesothelioma, malignant (C384)",Malignant,
+M9052/0,Well differentiated papillary mesothelioma (C384),Benign,
+M9052/1,"Well differentiated papillary mesothelioma, pleura (ICD-O-3.2 update) (C384)",Borderline,
+M9052/3,"Epithelioid mesothelioma, malignant (C384)",Malignant,
+M9053/3,"Mesothelioma, biphasic, malignant (C384)",Malignant,
+M9054/0,"Adenomatoid tumor, NOS (C384)",Benign,
+M9055/0,"Peritoneal inclusion cysts (C48_) (ICD-O-3 update, previously 9055/1)",Benign,
+M9055/1,"Cystic mesothelioma, NOS (C48_) (ICD-O-3.2 update, see code 9055/0) ",Borderline,
+M9055/3,"Multicystic mesothelioma, malignant (C384)",Malignant,
+M9060/2,"Dysgerminoma, in situ (C569 [F], C62_[M])",In-Situ,Not listed in ICD-O-3.2
+M9060/3,"Dysgerminoma (C569 [F], C62_[M])",Malignant,
+M9061/2,"Seminoma, in situ (C62_)",In-Situ,Not listed in ICD-O-3.2
+M9061/3,"Seminoma, NOS (C62_)",Malignant,
+M9062/3,"Seminoma, anaplastic (C62_)",Malignant,
+M9063/2,"Spermatocytic seminoma, in situ (C62_)",In-Situ,Not listed in ICD-O-3.2
+M9063/3,Spermatocytic seminoma (C62_),Malignant,
+M9064/2,Intratubular malignant germ cells (C62_),In-Situ,
+M9064/3,Germinoma (C62_),Malignant,
+M9065/2,"Germ cell tumor, nonseminomatous, in situ",In-Situ,Not listed in ICD-O-3.2
+M9065/3,"Germ cell tumor, nonseminomatous (C62_)",Malignant,
+M9070/2,"Embryonal carcinoma, NOS, in situ",In-Situ,Not listed in ICD-O-3.2
+M9070/3,"Embryonal carcinoma, NOS ",Malignant,
+M9071/3,"Yolk sac tumor (C569 [F], C62_[M])",Malignant,
+M9072/3,Polyembryoma ,Malignant,
+M9073/1,"Gonadoblastoma (C569 [F], C62_[M])",Borderline,
+M9073/3,"Gonadoblastoma, malignant (C569 [F], C62_[M])",Malignant,Not listed in ICD-O-3.2
+M9080/0,"Teratoma, benign ",Benign,
+M9080/1,"Teratoma, NOS (ICD-O-3.2 update) ",Borderline,
+M9080/2,"Teratoma, in situ",In-Situ,Not listed in ICD-O-3.2
+M9080/3,"Teratoma, malignant, NOS (ICD-O-3.2 update, see 9080/1 for specific sites: C34, C37, 73) ",Malignant,
+M9081/3,Teratocarcinoma (C220),Malignant,
+M9082/3,"Malignant teratoma, undifferentiated ",Malignant,
+M9083/3,"Malignant teratoma, intermediate ",Malignant,
+M9084/0,"Dermoid cyst, NOS ",Benign,
+M9084/3,Teratoma with malignant transformation ,Malignant,
+M9085/2,"Mixed germ cell tumor, in situ ",In-Situ,Not listed in ICD-O-3.2
+M9085/3,Mixed germ cell tumor ,Malignant,
+M9086/3,Germ cell tumor with associated hematological malignancy (ICD-O-3.2 update) ,Malignant,New code 2021+
+M9090/0,"Struma ovarii, NOS (C569)",Benign,
+M9090/2,"Struma ovarii, in situ",In-Situ,Not listed in ICD-O-3.2
+M9090/3,"Struma ovarii, malignant  (C569)",Malignant,
+M9091/1,Strumal carcinoid (C569),Borderline,
+M9091/3,"Strumal carcinoid, malignant  (C569)",Malignant,Not listed in ICD-O-3.2
+M9100/0,"Hydatidiform mole, NOS (C589)",Benign,
+M9100/1,Invasive hydatidiform mole (C589),Borderline,
+M9100/2,"Choriocarcinoma in situ, NOS (C589)",In-Situ,Not listed in ICD-O-3.2
+M9100/3,"Choriocarcinoma, NOS  (C589)",Malignant,
+M9101/2,"Choriocarcinoma combined with other germ cell elements, in situ (C589)",In-Situ,Not listed in ICD-O-3.2
+M9101/3,Choriocarcinoma combined with other germ cell elements ,Malignant,
+M9102/3,"Malignant teratoma, trophoblastic (C62_)",Malignant,
+M9103/0,Partial hydatidiform mole (C589),Benign,
+M9103/3,"Partial hydatidiform mole, malignant (C589)",Malignant,Not listed in ICD-O-3.2
+M9104/1,Placental site trophoblastic tumor (C589),Borderline,
+M9104/3,Malignant placental site trophoblastic tumor (C589),Malignant,Not listed in ICD-O-3.2
+M9105/3,"Trophoblastic tumor, epithelioid ",Malignant,
+M9110/0,Adenoma of rete ovarii,Benign,
+M9110/1,Wolffian tumor,Borderline,
+M9110/3,"Wolffian tumor, malignant",Malignant,
+M9111/3,Mesonephric-like adenocarcinoma (2022 update),Malignant,New code 2022+
+M9120/0,"Hemangioma, NOS",Benign,
+M9120/1,"Hemangioma, NOS, borderline",Borderline,Not listed in ICD-O-3.2
+M9120/3,Hemangiosarcoma (C49_),Malignant,
+M9121/0,Cavernous hemangioma,Benign,
+M9121/1,"Cavernous hemangioma, borderline",Borderline,Not listed in ICD-O-3.2
+M9122/0,Venous hemangioma,Benign,
+M9123/0,Racemose hemangioma,Benign,
+M9124/3,Kupffer cell sarcoma (C220),Malignant,
+M9125/0,Epithelioid hemangioma,Benign,
+M9125/3,"Epithelioid hemangioma, malignant (C49_)",Malignant,Not listed in ICD-O-3.2
+M9126/0,Atypical vascular lesion (ICD-O-3.2 update),Benign,
+M9130/0,"Hemangioendothelioma, benign",Benign,
+M9130/1,"Hemangioendothelioma, borderline (C49_)",Borderline,Not listed in ICD-O-3.2
+M9130/3,"Hemangioendothelioma, malignant (C49_)",Malignant,
+M9131/0,Capillary hemangioma,Benign,
+M9132/0,Intramuscular hemangioma,Benign,
+M9133/1,"Epithelioid hemangioendothelioma, NOS (ICD-O-3.2 update, see code 9133/3)",Borderline,
+M9133/3,"Epithelioid hemangioendothelioma, malignant (ICD-O-3 update, previously 9133/1)",Malignant,
+M9135/1,Papillary intralymphatic angioendothelioma,Borderline,
+M9136/1,Spindle cell hemangioendothelioma,Borderline,
+M9137/0,Myointimoma (ICD-O-3.2 update),Benign,New code 2021+
+M9137/3,Intimal sarcoma (ICD-O-3.2 update),Malignant,New code 2021+
+M9138/1,Pseudomyogenic (epithelioid sarcoma-like) hemagioendothelioma (ICD-O-3.2 update),Borderline,New code 2021+
+M9140/3,Kaposi Sarcoma ,Malignant,
+M9141/0,Angiokeratoma ,Benign,
+M9142/0,Verrucous keratotic hemangioma,Benign,
+M9150/0,"Hemangiopericytoma, benign  (ICD-O-3.2 update, see code 8815/1)",Benign,
+M9150/1,"Hemangiopericytoma, NOS (C49_) (ICD-O-3.2 update, see code 8815/1) ",Borderline,
+M9150/3,"Hemangiopericytoma, malignant (C49_) (ICD-O-3.2 update, see code 8815/3)",Malignant,
+M9160/0,"Angiofibroma, NOS ",Benign,
+M9161/0,Acquired tufted hemangioma,Benign,
+M9161/1,Hemangioblastoma (C49_),Borderline,
+M9161/3,"Hemangioblastoma, malignant (C49_)",Malignant,Not listed in ICD-O-3.2
+M9170/0,"Lymphangioma, NOS ",Benign,
+M9170/3,Lymphangiosarcoma (C49_),Malignant,
+M9171/0,Capillary lymphangioma,Benign,
+M9172/0,Cavernous lymphangioma,Benign,
+M9173/0,Cystic lymphangioma,Benign,
+M9174/0,Lymphangiomyoma,Benign,
+M9174/1,Lymphangiomyomatosis (C49_),Borderline,
+M9174/3,Lymphangioleiomyomatosis (C49) (2022 update),Malignant,
+M9175/0,Hemolymphangioma ,Benign,
+M9175/3,Hemolymphangiosarcoma,Malignant,Not listed in ICD-O-3.2
+M9180/0,"Osteoma, NOS (C40_, C41_)",Benign,
+M9180/3,"Osteosarcoma, NOS (C40_, C41_)",Malignant,
+M9181/3,"Chondroblastic osteosarcoma  (C40_, C41_)",Malignant,
+M9182/3,"Fibroblastic osteosarcoma (C40_, C41_)",Malignant,
+M9183/3,"Telangiectatic osteosarcoma (C40_, C41_)",Malignant,
+M9184/3,"Osteosarcoma in Paget disease of bone  (C40_, C41_)",Malignant,
+M9185/3,"Small cell osteosarcoma (C40_, C41_)",Malignant,
+M9186/3,"Central osteosarcoma (C40_, C41_)",Malignant,
+M9187/3,"Low grade central osteosarcoma (C40_, C41_)",Malignant,
+M9191/0,"Osteoid osteoma (C40_, C41_)",Benign,
+M9192/3,"Parosteal osteosarcoma (C40_, C41_)",Malignant,
+M9193/3,"Periosteal osteosarcoma (C40_, C41_)",Malignant,
+M9194/3,"High grade surface osteosarcoma (C40_, C41_)",Malignant,
+M9195/3,"Intracortical osteosarcoma (C40_, C41_)",Malignant,
+M9200/0,"Osteoblastoma, NOS (C40_, C41_)",Benign,
+M9200/1,"Aggressive osteoblastoma (C40_, C41_)",Borderline,
+M9200/3,"Osteosarcoma, malignant (C40_, C41_)",Malignant,Not listed in ICD-O-3.2
+M9210/0,"Osteochondroma (C40_, C41_)",Benign,
+M9210/1,"Osteochondromatosis, NOS (C40_, C41_)",Borderline, 
+M9211/0,Osteochondromyxoma (ICD-O-3.2 update),Benign,New code 2021+
+M9212/0,Bizarre parosteal osteochondromatous proliferation (ICD-O-3.2 update),Benign,New code 2021+
+M9213/0,Subungal exostosis (ICD-O-3.2 update),Benign,
+M9220/0,"Chondroma, NOS (C40_, C41.)",Benign,
+M9220/1,"Chondromatosis, NOS (C40_, C41_)",Borderline,
+M9220/3,"Chondrosarcoma, NOS (C40_, C41_)",Malignant,
+M9221/0,"Periosteal chondroma (C40_, C41_)",Benign,
+M9221/3,"Periosteal chondrosarcoma (C40_, C41_)",Malignant, 
+M9222/1,"Atypical cartilaginous tumor (C40_, C41_) (ICD-O-3.2 update) ",Borderline,New code 2021+
+M9222/3,"Chondrosarcoma, grade 1 (C40_, C41) (2022 update)",Malignant,New code 2022+
+M9230/0,"Chondroblastoma, NOS (C40_, C41_) (ICD-O-3.2 update, see code 9230/1) ",Benign,
+M9230/1,"Chrondroblastoma, NOS (C40_, C41_) (ICD-O-3.2 update, previously 9230/0) ",Borderline,
+M9230/3,"Chondroblastoma, malignant (C40_, C41_)",Malignant,
+M9231/3,"Myxoid chondrosarcoma (C40_, C41_)",Malignant,
+M9240/3,Mesenchymal chondrosarcoma (C49_),Malignant,
+M9241/0,"Chondromyxoid fibroma (C40_, C41_)",Benign,
+M9242/3,"Clear cell chondrosarcoma (C40_, C41_)",Malignant,
+M9243/3,"Dedifferentiated chondrosarcoma (C40_, C41_)",Malignant,
+M9250/1,"Giant cell tumor of bone, NOS (C40_, C41_)",Borderline,
+M9250/3,"Giant cell tumor of bone, malignant (C40_, C41_)",Malignant,
+M9251/1,"Giant cell tumor of soft parts, NOS (C49_)",Borderline,
+M9251/3,Malignant giant cell tumor of soft parts (C49_),Malignant,
+M9252/0,Tenosynovial giant cell tumor  (C49_),Benign,
+M9252/1,"Tenosynovial giant cell tumor, diffuse  (C49_) (ICD-O-3.2 update) ",Borderline,New code 2021+
+M9252/3,Malignant tenosynovial giant cell tumor  (C49_),Malignant,
+M9260/0,Aneurysmal bone cyst (ICD-O-3.2 update),Benign,
+M9260/3,"Ewing sarcoma (C40_, C41_) (ICD-O-3.2 update, see 9364/3) ",Malignant,
+M9261/1,"Osteofibrous dysplasia-like adamantinoma  (C40_, C41_) (2022 update)",Borderline,Not listed in ICD-O-3.2
+M9261/3,"Adamantinoma of long bones (C40_, C41_)",Malignant,
+M9262/0,"Ossifying fibroma (C40_, C41_)",Benign,
+M9270/0,"Odontogenic tumor, benign (C41_)",Benign,
+M9270/1,"Odontogenic tumor, NOS (C41_)",Borderline,
+M9270/3,"Odontogenic tumor, malignant (C41_)",Malignant,
+M9271/0,Ameloblastic fibrodentinoma (C41_),Benign,
+M9272/0,"Cementoma, NOS  (C41_)",Benign,
+M9273/0,"Cementoblastoma, benign (C41_)",Benign,
+M9274/0,Cemento-ossifying fibroma (C41_),Benign,
+M9275/0,Gigantiform cementoma (C41_),Benign,
+M9280/0,"Odontoma, NOS (C41_)",Benign,
+M9281/0,Compound odontoma (C41_),Benign,
+M9282/0,Complex odontoma (C41_),Benign,
+M9282/3,Complex odontosarcoma (C41_),Malignant,Not listed in ICD-O-3.2
+M9290/0,Ameloblastic fibro-odontoma (C41_),Benign,
+M9290/3,Ameloblastic odontosarcoma (C41_),Malignant,
+M9300/0,Adenomatoid odontogenic tumor  (C41_),Benign,
+M9301/0,Calcifying odontogenic cyst (C41_),Benign,
+M9302/0,Dentinogenic ghost cell tumor (C41_),Benign,
+M9302/3,Ghost cell odontogenic carcinoma (ICD-O-3.2 update),Malignant,
+M9310/0,"Ameloblastoma, NOS (C41_)",Benign,
+M9310/3,"Ameloblastoma, metastasizing (C41_)",Malignant,
+M9311/0,Odontoameloblastoma (C41_),Benign,
+M9312/0,Squamous odontogenic tumor (C41_),Benign,
+M9312/3,"Squamous odontogenic tumor, malignant (C41_)",Malignant,Not listed in ICD-O-3.2
+M9320/0,Odontogenic myxoma (C41_),Benign,
+M9321/0,"Odontogenic fibroma, NOS (C41_)",Benign,
+M9321/3,Cental odontogenic fibrosarcoma,Malignant,Not listed in ICD-O-3.2
+M9322/0,Peripheral odontogenic fibroma (C41_),Benign,
+M9330/0,Ameloblastic fibroma (C41_),Benign,
+M9330/3,Ameloblastic fibrosarcoma (C41_),Malignant,
+M9340/0,Calcifying epithelial odontogenic tumor (C41_),Benign,
+M9340/3,"Calcifying epithelial odontogenic tumor, malignant (C41_)",Malignant,Not listed in ICD-O-3.2
+M9341/1,Clear cell odontogenic tumor (C41_) (ICD-O-3.2 update) ,Borderline,
+M9341/3,Clear cell odontogenic tumor (C41_),Malignant,
+M9342/3 ,Odontogenic carcinosarcoma (C41_),Malignant,
+M9350/0,"Craniopharyngioma, benign (C752)",Benign,Not listed in ICD-O-3.2
+M9350/1,Craniopharyngioma (C752),Borderline,
+M9350/3,"Craniopharyngioma, malignant (C752)",Malignant,Not listed in ICD-O-3.2
+M9351/0,"Craniopharyngioma, adamantinomatous, benign (C752)",Benign,Not listed in ICD-O-3.2
+M9351/1,"Craniopharyngioma, adamantinomatous (C752)",Borderline,
+M9351/3,"Craniopharyngioma, adamantinomatous, malignant (C752)",Malignant,Not listed in ICD-O-3.2
+M9352/0,"Craniopharyngioma, papillary, benign (C752)",Benign,Not listed in ICD-O-3.2
+M9352/1,"Craniopharyngioma, papillary (C752)",Borderline,
+M9352/3,"Craniopharyngioma, papillary, malignant (C752)",Malignant,Not listed in ICD-O-3.2
+M9360/0,"Pinealoma, benign (C753) ",Benign,Not listed in ICD-O-3.2
+M9360/1,"Pinealoma, NOS (C753)",Borderline,
+M9360/3,"Pinealoma, malignant (C753)",Malignant,Not listed in ICD-O-3.2
+M9361/1,Pineocytoma (C753),Borderline,Not listed in ICD-O-3.2
+M9361/3,"Pineocytoma, malignant (C753)",Malignant,
+M9362/3,Pineoblastoma (C753),Malignant,
+M9363/0,"Melanotic neuroectodermal tumor (C40_, C41_)",Benign,
+M9363/3,"Melanotic neuroectodermal tumor, malignant (C40_, C41_)",Malignant,Not listed in ICD-O-3.2
+M9364/3,"Ewing sarcoma (C40_, C41_) (ICD-O-3.2 update, name changed and previous code 9260/3 deleted and moved to this code)",Malignant,
+M9365/3,Askin tumor,Malignant,
+M9366/3,"Round cell sarcoma with EWSR1-non ETS fusions (C40_, C41_) (2022 update)",Malignant,New code 2022+
+M9367/3,"CIC-rearranged sarcoma (C40_, C41_) (2022 update)",Malignant,New code 2022+
+M9368/3,"Sarcoma with BCOR genetic alterations (C40_, C41_) (2022 update)",Malignant,New code 2022+
+M9370/0,Benign notochordal tumor (ICD-O-3.2 update),Benign,
+M9370/3,"Chordoma, NOS (C40_, C41_)",Malignant, 
+M9371/3,"Chondroid chordoma (C40_, C41_)",Malignant, 
+M9372/3,"Dedifferentiated chordoma (C40_, C41_)",Malignant,
+M9373/0,Parachordoma (C49_),Benign,
+M9380/0,"Glioma, benign (C71_)",Benign,Not listed in ICD-O-3.2
+M9380/1,"Glioma, borderline (C71_)",Borderline,Not listed in ICD-O-3.2
+M9380/3,"Glioma, malignant (C71_)",Malignant,
+M9381/0,"Gliomatosis cerebri, benign (C71_)",Benign,Not listed in ICD-O-3.2
+M9381/3,Gliomatosis cerebri (C71_),Malignant, 
+M9382/3,"Oligoastrocytoma, NOS (C71_)",Malignant,
+M9383/0,"Subependymoma, benign (C71_)",Benign,Not listed in ICD-O-3.2
+M9383/1,Subependymoma (C71_),Borderline,
+M9383/3,"Subependymoma, malignant (C71_)",Malignant,Not listed in ICD-O-3.2
+M9384/0,"Supependymal giant cell astrocytoma, benign (C71_)",Benign,Not listed in ICD-O-3.2
+M9384/1,Supependymal giant cell astrocytoma (C71_),Borderline,
+M9384/3,"Supependymal giant cell astrocytoma, malignant (C71_)",Malignant,Not listed in ICD-O-3.2
+M9385/3,"Diffuse midline glioma, H3 K27M-mutation (C71_) (ICD-O-3.2 update) ",Malignant,
+M9390/0,"Choroid plexus papilloma, NOS (C715)",Benign,
+M9390/1,Atypical choroid plexus papilloma (C715),Borderline,
+M9390/3,Choroid plexus papilloma (C715),Malignant,
+M9391/0,"Ependymoma, benign (C71_)",Benign,Not listed in ICD-O-3.2
+M9391/1,Sellar ependymoma (C751) (ICD-O-3.2 update) ,Borderline,
+M9391/3,"Ependymoma, NOS (C71_)",Malignant,
+M9392/3,"Ependymoma, anaplastic (C71_)",Malignant,
+M9393/0,"Papillary ependymoma, benign (C71_)",Benign,Not listed in ICD-O-3.2
+M9393/1,"Papillary ependymoma, borderline (C71_)",Borderline,Not listed in ICD-O-3.2
+M9393/3,Papillary ependymoma (C71_),Malignant,
+M9394/0,"Myxopapillary ependymoma, benign (C71_)",Benign,Not listed in ICD-O-3.2
+M9394/1,Myxopapillary ependymoma (C71_),Borderline,
+M9394/3,"Myxopapillary ependymoma, malignant (C71_)",Malignant,Not listed in ICD-O-3.2
+M9395/3,Papillary tumor of the pineal region,Malignant,
+M9396/3,"Ependymoma, RELA fusion-positive (C71_) (ICD-O-3.2 update) ",Malignant,
+M9400/0,"Astrocytoma, benign (C71_)",Benign,Not listed in ICD-O-3.2
+M9400/1,"Astrocytoma, borderline (C71_)",Borderline,Not listed in ICD-O-3.2
+M9400/3,"Astrocytoma, NOS (C71_)",Malignant,
+M9401/0,"Astrocytoma, anaplastic, benign (C71_)",Benign,Not listed in ICD-O-3.2
+M9401/3,"Astrocytoma, anaplastic (C71_)",Malignant,
+M9410/3,Protoplasmic astrocytoma (C71_),Malignant,
+M9411/0,"Gemistocytic astrocytoma, benign (C71_)",Benign,Not listed in ICD-O-3.2
+M9411/3,Gemistocytic astrocytoma (C71_),Malignant,
+M9412/1,Desmoplastic infantile astrocytoma (C71_),Borderline,
+M9412/3,"Desmoplastic infantile astrocytoma, malignant (C71_)",Malignant,Not listed in ICD-O-3.2
+M9413/0,Dysembryoplastic neuroepithelial tumor ,Benign,
+M9413/1,"Dysembryoplastic neuroepithelial tumor, borderline",Borderline,Not listed in ICD-O-3.2
+M9413/3,"Dysembryoplastic neuroepithelial tumor, malignant",Malignant,Not listed in ICD-O-3.2
+M9420/3,Fibrillary astrocytoma (C71_),Malignant,
+M9421/1,Pilocytic astrocytoma  (C71_) (2023+),Borderline,
+M9421/3,"Pilocytic astrocytoma, malignant  (C71_) (2001-2022)",Malignant,
+M9421/3,High-grade astrocytoma with piloid features (HGAP) (C71_) (2023 update),Malignant,
+M9423/3,Polar spongioblastoma  (C71_),Malignant,
+M9424/3,Pleomorphic xanthoastrocytoma  (C71_),Malignant,
+M9425/3,Pilomyxoid astrocytoma (C71_),Malignant,
+M9430/3,Astroblastoma  (C71_),Malignant,
+M9431/1,Angiocentric glioma (C71_),Borderline,
+M9432/1,Pituicytoma (C751),Borderline,
+M9440/0,"Glioblastoma, NOS, benign (C71_)",Benign,Not listed in ICD-O-3.2
+M9440/1,"Glioblastoma, NOS, borderline (C71_)",Borderline,Not listed in ICD-O-3.2
+M9440/3,"Glioblastoma, NOS  (C71_)",Malignant,
+M9441/3,Giant cell glioblastoma  (C71_),Malignant,
+M9442/1,Gliofibroma  (C71_),Borderline,
+M9442/3,Gliosarcoma  (C71_),Malignant,
+M9444/1,Chordoid glioma  (C71_),Borderline,
+M9444/3,"Choriod glioma of third venricle, malignant (C71_)",Malignant,Not listed in ICD-O-3.2
+M9445/3,"Glioblastoma, IDH-mutant (C71_)",Malignant,
+M9450/0,"Oligodendroglioma, benign  (C71_)",Benign,Not listed in ICD-O-3.2
+M9450/1,"Oligodendroglioma, borderline (C71_)",Borderline,Not listed in ICD-O-3.2
+M9450/3,"Oligodendroglioma, NOS  (C71_)",Malignant,
+M9451/3,"Oligodendroglioma, anaplastic  (C71_)",Malignant,
+M9460/3,Oligodendroblastoma  (C71_),Malignant,
+M9470/3,"Medulloblastoma, NOS (C716)",Malignant,
+M9471/3,Desmoplastic nodular medulloblastoma (C716),Malignant,
+M9472/3,Medullomyoblastoma (C716),Malignant,
+M9473/3,"CNS embryonal tumor, NOS (C716)",Malignant,
+M9474/3,Large cell medulloblastoma (C716),Malignant,
+M9475/3,"Medulloblastoma, WNT-activated, NOS (C716) (ICD-O-3.2 update) ",Malignant,New code 2021+
+M9476/3,"Medulloblastoma, SHH-activated and TP53-mutant (C716) (ICD-O-3.2 update) ",Malignant,New code 2021+
+M9477/3,"Medulloblastoma, non-WNT/non-SHH (C716) (ICD-O-3.2 update) ",Malignant,New code 2021+
+M9478/3,Embryonal tumor with multilayered rosettes with C19MC alteration (C71_) (ICD-O-3.2 update) ,Malignant,New code 2021+
+M9480/3,"Cerebellar sarcoma, NOS (C716)",Malignant,
+M9490/0,Ganglioneuroma  (C49_),Benign,
+M9490/1,"Ganglioneuroma, borderline (C49_)",Borderline,Not listed in ICD-O-3.2
+M9490/3,Ganglioneuroblastoma (C49_),Malignant,
+M9491/0,Ganglioneuromatosis  (C49_),Benign,
+M9492/0,Gangliocytoma  (C49_),Benign,
+M9493/0,Dysplastic gangliocytoma of cerebellum (C716) (Lhermitte-Duclos) ,Benign,
+M9500/0,"Neuroblastoma, NOS, benign",Benign,Not listed in ICD-O-3.2
+M9500/2,"Neuroblastoma, NOS, in situ",In-Situ,Not listed in ICD-O-3.2
+M9500/3,"Neuroblastoma, NOS",Malignant,
+M9501/0,"Medulloepithelioma, benign (C694)",Benign,
+M9501/3,"Medulloepithelioma, NOS (C694)",Malignant,
+M9502/0,"Teratoid medulloepithelioma, benign (C694)",Benign,
+M9502/3,"Teratoid medulloepithelioma, NOS ",Malignant,
+M9503/3,"Neuroepithelioma, NOS",Malignant,
+M9504/3,Spongioneuroblastoma,Malignant,
+M9505/0,Multinodular and vascolating neuronal tumor (C712) (MVNT) (ICD-O-3.2 Update),Benign,
+M9505/1,"Ganglioglioma, NOS",Borderline,
+M9505/3,"Ganglioglioma, anaplastic",Malignant,
+M9506/0,"Central neurocytoma, benign (C716)",Benign,Not listed in ICD-O-3.2
+M9506/1,Central neurocytoma,Borderline,
+M9506/3,"Neurocytoma, malignant",Malignant,Not listed in ICD-O-3.2
+M9507/0,Pacinian tumor,Benign,
+M9508/3,Atypical teratoid/rhabdoid tumor (C71_),Malignant,
+M9509/0,Multinodlar and vacuolating neuronal tumor (C71_) (2023 update),Benign ,
+M9509/1,Papillary glioneuronal tumor,Borderline,
+M9509/3,Diffuse leptomeningeal glioneuronal tumor (C71_) (2023 update),Malignant,Not listed in ICD-O-3.2
+M9510/0,Retinocytoma (C692),Benign,
+M9510/3,"Retinoblastoma, NOS (C692)",Malignant,
+M9511/3,"Retinoblastoma, differentiated (C692)",Malignant,
+M9512/3,"Retinoblastoma, undifferentiated (C692)",Malignant,
+M9513/3,"Retinoblastoma, diffuse (C692)",Malignant,
+M9514/1,"Retinoblastoma, spontaneously regressed (C692)",Borderline,
+M9520/3,Olfactory neurogenic tumor (C300),Malignant,
+M9521/3,Olfactory neurocytoma  (C300),Malignant,
+M9522/3,Olfactory neuroblastoma  (C300),Malignant,
+M9523/3,Olfactory neuroepithelioma  (C300),Malignant,
+M9530/0,"Meningioma, NOS (C70_)",Benign,
+M9530/1,"Meningiomatosis, NOS (ICD-O-3.2 update) (C70_)",Borderline,Not listed in ICD-O-3.2
+M9530/3,"Meningioma, malignant  (C70_)",Malignant,
+M9531/0,Meningiothelial meningioma (C70_),Benign,
+M9531/1,"Meningiothelial meningioma, borderline (C70_)",Borderline,Not listed in ICD-O-3.2
+M9531/3,"Meningiothelial meningioma, malignant (C70_)",Malignant,Not listed in ICD-O-3.2
+M9532/0,Fibrous meningioma (C70_),Benign,
+M9532/3,"Fibrous meningioma, malignant (C70_)",Malignant,Not listed in ICD-O-3.2
+M9533/0,Psammomatous meningioma (C70_),Benign,
+M9533/3,"Psammomatous meningioma, malignant (C70_)",Malignant,Not listed in ICD-O-3.2
+M9534/0,Angiomatous meningioma (C70_),Benign,
+M9534/3,"Angiomatous meningioma, malignant (C70_)",Malignant,Not listed in ICD-O-3.2
+M9535/0,Hemangioblastic meningioma [OBS] (C70_),Benign,
+M9535/3,"Hemangioblastic meningioma, malignant (C70_)",Malignant,Not listed in ICD-O-3.2
+M9537/0,Transitional meningioma (C70_),Benign,
+M9537/1,"Mixed mengioma, borderline (C70_)",Borderline,Not listed in ICD-O-3.2
+M9537/3,"Transitional meningioma, malignant (C70_)",Malignant,Not listed in ICD-O-3.2
+M9538/0,"Clear cell meningioma, benign (C70_)",Benign,Not listed in ICD-O-3.2
+M9538/1,Clear cell meningioma (C70_),Borderline,
+M9538/3,Papillary meningioma (C70_),Malignant,
+M9539/0,"Atypical meningioma, benign (C70_)",Benign,Not listed in ICD-O-3.2
+M9539/1,Atypical meningioma (C70_),Borderline,
+M9539/3,Meningeal sarcomatosis (C70_),Malignant,
+M9540/0,"Neurofibroma, NOS ",Benign,
+M9540/1,"Neurofibromatosis, NOS (ICD-O-3.2 update, code deleted) ",Borderline,
+M9540/3,"Malignant peripheral nerve sheath tumor, NOS",Malignant,
+M9541/0,Melanotic neurofibroma ,Benign,
+M9542/3,"Malignant peripheral nerve sheath tumor, epithelioid (ICD-O-3.2 update) ",Malignant,New code 2021+
+M9550/0,"Plexiform neurofibroma, NOS",Benign,
+M9560/0,"Schwannoma, NOS (ICD-O-3.2 update, see 9560/1)",Benign,
+M9560/1,"Melanotic schwannoma (ICD-O-3.2, now includes 9560/0)",Borderline,
+M9560/3,"Neurilemoma, malignant ",Malignant,
+M9561/3,Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation ,Malignant,
+M9562/0,Nerve sheath myxoma ,Benign,
+M9562/3,"Neurothekeoma, malignant ",Malignant,
+M9563/0,"Nerve sheath tumor, NOS (ICD-O-3.2 update) ",Benign,New code 2021+
+M9570/0,"Neuroma, NOS ",Benign,
+M9571/0,"Perineurioma, benign, NOS ",Benign,
+M9571/3,"Perineurioma, malignant ",Malignant,
+M9580/0,"Granular cell tumor, NOS (C49_)",Benign,
+M9580/3,"Granular cell tumor, malignant (C49_)",Malignant,
+M9581/3,Alveolar soft part sarcoma (C49_),Malignant,
+M9582/0,Granular cell tumor of the sellar region  (C751),Benign,
+M9590/3,"Malignant lymphoma, NOS",Malignant,
+M9591/1,"Monoclonal B-cell lymphocytosis, NOS (ICD-O-3.2 update)",Malignant,New code 2021+
+M9591/3,"Malignant lymphoma, non-Hodgkin, NOS",Malignant,
+M9596/3,"B-cell lymphoma, unclassifiable, with features intermediate between diffuse large B-cell lymphoma  and classical Hodgkin lymphoma (C77_) (2010 ICD-O-3 update) ",Malignant,
+M9597/3,Primary cutaneous follicle centre lymphoma (2010 ICD-O-3 update),Malignant,
+M9650/3,Classical Hodgkin lymphoma (ICD-O-3 update) (C77_),Malignant,
+M9651/3,Lymphocyte-rich classical Hodgkin lymphoma (C77_),Malignant,
+M9652/3,Mixed cellularity classical Hodgkin lymphoma (C77_),Malignant,
+M9653/3,Lymphocyte-depleted classical Hodgkin lymphoma (C77_) (2010 ICD-O-3 update),Malignant,
+M9654/3,"Hodgkin lymphoma, lymphocytic depletion, diffuse fibrosis [OBS] (C77_), (2010 ICD-O-3 update, see 9651/3) ",Malignant,
+M9655/3,"Hodgkin lymphoma, lymphocyte depletion, reticular (C77_)",Malignant,
+M9659/3,Nodular lymphocyte predominant Hodgkin lymphoma (C77_),Malignant,
+M9661/3,"Hodgkin granuloma [OBS], (C77_), (2010 ICD-O-3 update, see 9650/3)",Malignant,
+M9662/3,"Hodgkin sarcoma [OBS] (C77_), (2010 ICD-O-3 update, see 9650/3)",Malignant,
+M9663/3,Nodular sclerosis classical Hodgkin lymphoma (C77_),Malignant,
+M9664/3,"Hodgkin lymphoma, nodular sclerosis, cellular phase [OBS],  (C77_), (2010 ICD-O-3 update, see 9663/3)",Malignant,
+M9665/3,"Hodgkin lymphoma, nodular sclerosis, grade 1 [OBS],  (C77_), (2010 ICD-O-3 update, see 9663/3)",Malignant,
+M9667/3,"Hodgkin lymphoma, nodular sclerosis, grade 2 [OBS] (C77_), (2010 ICD-O-3 update, see 9663/3)",Malignant,
+M9670/3,"Malignant lymphoma, small B lymphocytes, NOS [OBS], see 9823/3 (2010 ICD-O-3 update)",Malignant,
+M9671/3,Lymphoplasmacytic lymphoma,Malignant,
+M9673/1,In situ mantle cell neoplasia (ICD-O-3.2 update),Borderline,New code 2021+
+M9673/3,Mantle cell lymphoma,Malignant,
+M9675/3,"Malignant lymphoma, mixed small and large cell, diffuse [OBS], (2010 ICD-O-3 update, see 9690/3)",Malignant,
+M9678/3,Primary effusion lymphoma,Malignant,
+M9679/3,"Primary mediastinal (thymic) large B-cell lymphoma (C379, C38.3)",Malignant,
+M9680/1,EBV positive mucocutaneous ulcer (ICD-O-3.2 update),Borderline,New code 2021+
+M9680/3,Diffuse large B-cell lymphoma (DLBCL) ,Malignant,
+M9684/3,"Malignant lymphoma, large B-cell, diffuse, immunoblastic, NOS [OBS], (2010 ICD-O-3 update, see 9680/3)",Malignant,
+M9687/3,Burkitt lymphoma,Malignant,
+M9688/3,T-cell histiocyte-rich large B-cell lymphoma (C77_),Malignant,
+M9689/3,Splenic marginal zone lymphoma (C422),Malignant,
+M9690/3,Follicular lymphoma,Malignant,
+M9691/3,"Follicular lymphoma, grade 2",Malignant,
+M9695/1,In situ follicular neoplasia (ICD-O-3.2 update),Borderline,New code 2021+
+M9695/3,"Follicular lymphoma, grade 1",Malignant,
+M9698/3,"Follicular lymphoma, grade 3",Malignant,
+M9699/3,Extranodal marginal zone lymphoma of mucosal-associated lymphoid tissue (MALT lymphoma),Malignant,
+M9700/3,Mycosis fungoides (C44_),Malignant,
+M9701/3,Sezary syndrome (C44_),Malignant,
+M9702/1,Indolent T-cell lymphoproliferative disorder of the gastrointestina tract (ICD-O-3.2 update),Borderline,New code 2021+
+M9702/3,"Peripheral T-cell lymphoma, NOS",Malignant,
+M9705/3,Angioimmunoblastic T-cell lymphoma,Malignant,
+M9708/3,Subcutaneous panniculitis-like T-cell lymphoma (C49_),Malignant,
+M9709/1,Primary cutaneous CD4-positive small/medium T-cell lymphoproliferative disorder (ICD-O-3.2 update),Borderline,New code 2021+
+M9709/3,"Primary cutaneous T-cell lymphoma (C44_) (ICD-O-3.2 update, alternate name removed, see 9709/1) ",Malignant,
+M9712/3,Intravascular large B-cell lymphoma (2010 ICD-O-3 update),Malignant,
+M9714/3,"Anaplastic large cell lymphoma, ALK-positive",Malignant,
+M9715/3,"Anaplastic large cell lymphoma, ALK-negative (ICD-O-3.2 update)",Malignant,New code 2021+
+M9716/3,Hepatosplenic T-cell lymphoma (C422),Malignant,
+M9717/3,Enteropathy-associated T-cell lymphoma,Malignant,
+M9718/1,Primary cutaneous CD30+ T-cell lymphoproliferative disorder  (C44_) (ICD-O-3.2 update),Borderline,New code 2021+
+M9718/3,"Primary cutaneous CD30-positive T-cell lymphoproliferative disorders (C44_) (ICD-O-3.2 update, alternate name removed, see 9718/1)",Malignant,
+M9719/3,"Extranodal NK--/T-cell lymphoma, nasal type",Malignant,
+M9724/3,Systemic EBV-positive T-cell lymphoproliferative disease of childhood (2010 ICD-O-3 update),Malignant,
+M9725/1,Hydroa vacciniforme-like lymphoma (C44_) (ICD-O-3.2 update) ,Borderline,New code 2021+
+M9725/3,"Hydroa vacciniforme-like lymphoma (C44_) (ICD-O-3.2 update, see 9725/1) ",Malignant,
+M9726/3,"Primary cutaneous gamma delta T-cell lymphoma  (C44_, C49_) (2010 ICD-O-3 update)",Malignant,
+M9727/3,Blastic plasmacytoid dendritic cell neoplasm,Malignant,
+M9728/3,"Precursor B-lymphoblastic lymphoma [OBS], (2010 ICD-O-3 update, see 9811/3)",Malignant,
+M9729/3,"Precursor T--cell lymphoblastic lymphoma, NOS [OBS], (2010 ICD-O-3 update, see 9837/3)",Malignant,
+M9731/3,"Solitary plasmacytoma of bone (C40_, C41_)",Malignant,
+M9732/3,Plasma cell myeloma (C421),Malignant,
+M9733/3,"Plasma cell leukemia [OBS], (C421) (2010 ICD-O-3 update, see 9732/3) ",Malignant,
+M9734/3,Extraosseous plasmacytoma,Malignant,
+M9735/3,Plasmablastic lymphoma (2010 ICD-O-3 update),Malignant,
+M9737/3,ALK-positive large B-cell lymphoma,Malignant,
+M9738/1,HHV8-positive germinotrophic-lymphoproliferative disorder (ICD-O-3.2 update),Borderline,New code 2021+
+M9738/3,Large B-cell lymphoma arising in HHV8-associated multicentric Castleman disease (2010 ICD-O-3 update),Malignant,
+M9740/1,Solitary mastocytoma of skin,Borderline,
+M9740/3,Mast cell sarcoma,Malignant,
+M9741/1,Indolent systemic mastocytosis,Borderline,New code 2021+
+M9741/3,Systemic mastocytosis (C421),Malignant,
+M9742/3,Mast cell leukemia (C421),Malignant,
+M9749/1,Juvenile xanthogranuloma (C715) (2023 update),Borderline,New code 2023+
+M9749/3,Erdheim-Chester disease (ICD-O-3.2 update),Malignant,New code 2021+
+M9750/3,"Malignant histiocytosis [OBS], (2010 ICD-O-3 update, see 9751/3)",Malignant,
+M9751/1,"Langerhans cell histiocytosis, NOS (ICD-O-3.2 update)",Borderline,New code 2021+
+M9751/3,"Langerhans cell histiocytosis (ICD-O-3.2 update, alternate names moved to 9751/1)",Malignant,
+M9752/1,"Langerhans cell histiocytosis, unifocal [OBS], (2010 ICD-O-3 update, see 9751/3)",Borderline,
+M9753/1,"Langerhans cell histiocytosis, multifocal [OBS], (2010 ICD-O-3 update, see 9751/3)",Borderline,
+M9754/3,"Langerhans cell histiocytosis, disseminated [OBS], (2010 ICD-O-3 update, see 9751/3)",Malignant,
+M9755/3,Histiocytic sarcoma,Malignant,
+M9756/3,Langerhans cell sarcoma,Malignant,
+M9757/3,Interdigitating dendritic cell sarcoma,Malignant, 
+M9758/3,Follicular dendritic cell sarcoma,Malignant,
+M9759/3,Fibroblastic reticular cell tumor (2010 ICD-O-3 update),Malignant,
+M9760/3,"Immunoproliferative disease, NOS [OBS] (2010 ICD-O-3 update, see 9762/3)",Malignant,
+M9761/1,IgM monoclonal gammopathy of undetermined significance (ICD-O-3.2 update),Borderline,New code 2021+
+M9761/3,Waldenstrom macroglobulinemia (C421),Malignant,
+M9762/3,Heavy chain disease,Malignant,
+M9764/3,"Immunoproliferative small intestinal disease [OBS], (2010 ICD-O-3 update, see 9762/3)",Malignant,
+M9765/1,Monoclonal gammopathy of undetermined significance,Borderline,
+M9766/1,Angiocentric immunoproliferative lesion ,Borderline,
+M9766/3,"Lymphomatoid granulomatosis, grade 3 (ICD-O-3.2 update)",Malignant,New code 2021+
+M9767/1,Angioimmunoblastic lymphadenopathy,Borderline, 
+M9768/1,T gamma-lymphoproliferative disease,Borderline,
+M9769/1,Immunoglobulin deposition disease,Borderline,
+M9769/3,"Immunoglobulin deposition disease, malignant",Malignant,Not listed in ICD-O-3.2
+M9800/3,"Leukemia, NOS (C421)",Malignant,
+M9801/3,Acute undifferentiated leukemia (C421),Malignant,
+M9805/3,"Acute biphenotypic leukemia [OBS] (C421), (2010 ICD-O-3 update, see codes 9806/3-9809/3) ",Malignant,
+M9806/3,Mixed phenotype acute leukemia with t(9;22)(q34;q11.2);BCR-ABL1  (C421) (2010 ICD-O-3 update),Malignant,
+M9807/3,Mixed phenotype acute leukemia with t(v;11q23); MLL rearranged (C421) (2010 ICD-O-3 update) ,Malignant,
+M9808/3,"Mixed phenotype acute leukemia, B/myeloid, NOS (C421) (2010 ICD-O-3 update) ",Malignant,
+M9809/3,"Mixed phenotype acute leukemia, T/myeloid, NOS (C421) (2010 ICD-O-3 update) ",Malignant,
+M9811/3,"B lymphoblastic leukemia/lymphoma, NOS (2010 ICD-O-3 update)",Malignant,
+M9812/3,B Lymphoblastic leukemia/lymphoma with t(9;22)(q34;q11.2); BCR-ABL1 (2010 ICD-O-3 update),Malignant,
+M9813/3,B Lymphoblastic leukemia/lymphoma with t(v;11q23); MLL rearranged (2010 ICD-O-3 update),Malignant,
+M9814/3,B Lymphoblastic leukemia/lymphoma with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1) (2010 ICD-O-3 update),Malignant,
+M9815/3,B Lymphoblastic leukemia/lymphoma with hyperdiploidy (2010 ICD-O-3 update),Malignant,
+M9816/3,B Lymphoblastic leukemia/lymphoma with hypodiploidy (Hypodiploid ALL) (2010 ICD-O-3 update),Malignant,
+M9817/3,B Lymphoblastic leukemia/lymphoma with t(5;14)(q31;q32); IL3-IGH (2010 ICD-O-3 update),Malignant,
+M9818/3,B Lymphoblastic leukemia/lymphoma with t(1;19)(q23;p13.3);E2A-PBX1 (TCF3-PBX1) (2010 ICD-O-3 update),Malignant,
+M9819/3,"B Lymphoblastic leukemia/lymphoma, BCR-ABL1-like (ICD-O-3.2 update) ",Malignant,New code 2021+
+M9820/3,"Lymphoid leukemia, NOS (C421)",Malignant,
+M9823/1,"Monoclonal B-cell lymphocytosis, CLL type (ICD-O-3.2 update)",Borderline,New code 2021+
+M9823/3,Chronic lymphocytic leukemia/small lymphocytic lymphoma ,Malignant,
+M9826/3,"Burkitt cell leukemia [OBS] (2021 ICD-O-3 update, see 9687/3) (C421) (",Malignant,
+M9827/3,Adult T-cell leukemia/lymphoma ,Malignant, 
+M9831/3,T-cell large granular lymphocytic leukemia (C421),Malignant,
+M9832/3,"Prolymphocytic leukemia, NOS (C421)",Malignant,
+M9833/3,B-cell prolymphocytic leukemia (C421),Malignant,
+M9834/3,T-cell prolymphocytic leukemia (C421),Malignant,
+M9835/3,"Precursor cell lymphoblastic leukemia, NOS [OBS} (C421) (2010 ICD-O-3 update, see 9811/3) ",Malignant,
+M9836/3,"Precursor B-cell lymphoblastic leukemia [OBS} (C421) (2010 ICD-O-3 update, see code 9811/3)",Malignant,
+M9837/3,T lymphoblastic leukemia/lymphoma ,Malignant,
+M9840/3,Acute erythroid leukemia (C421),Malignant,
+M9860/3,"Myeloid leukemia, NOS (C421)",Malignant,
+M9861/3,"Acute myeloid leukemia, NOS (C421)",Malignant,
+M9863/3,"Chronic myeloid leukemia, NOS (C421)",Malignant,
+M9865/3,Acute myeloid leukemia with t(6;9)(p23;q34);DEK-NUP214 (C421) (2010 ICD-O-3 update) ,Malignant,
+M9866/3,Acute promyelocytic leukemia (AML with t(15;17)(q22;q12)) PML/RARA (C421),Malignant,
+M9867/3,Acute myelomonocytic leukemia (C421),Malignant,
+M9869/3,Acute myeloid leukemia with inv(3)(q21;q26.2) or t(3;3)(q21;q26.2); RPN1-EVI1 (C421) (2010 ICD-O-3 update) ,Malignant,
+M9870/3,Acute basophilic leukemia (C421),Malignant,
+M9871/3,"Acute myeloid leukemia with inv(16)(p13.1q22) or t(16;16)(p13.1;q22), CBFB-MYH11 (C421) (2010 ICD-O-3 update) ",Malignant,
+M9872/3,Acute myeloid leukemia with minimal differentiation (C421),Malignant,
+M9873/3,Acute myeloid leukemia without maturation (C421),Malignant,
+M9874/3,Acute myeloblastic leukemia with maturation (C421),Malignant,
+M9875/3,"Chronic myelogenous leukemia, BCR/ABL1 positive (C421)",Malignant,
+M9876/3,"Atypical chronic myeloid leukemia, BCR-ABL1 negative (C421)",Malignant,
+M9877/3,Acute myeloid leukemia with mutated NPM1  (C421) (ICD-O-3.2 update),Malignant,New code 2021+
+M9878/3,Acute myeloid leukemia with biallelic mutation of CEBPA (C421) (ICD-O-3.2 update) ,Malignant,New code 2021+
+M9879/3,Acute myeloid leukemia with mutated RUNX1 (C421)  (ICD-O-3.2 update),Malignant,New code 2021+
+M9891/3,Acute monoblastic and monocytic leukemia,Malignant,
+M9895/3,Acute myeloid leukemia with myelodysplasia-related changes (C421),Malignant,
+M9896/3,"Acute myeloid leukemia, t(8;21)(q22;q22) RUNX1-RUNX1T1 (C421)",Malignant,
+M9897/3,Acute myeloid leukemia with t(9;11)(p22;q23);MLLT3-MLL (C421),Malignant,
+M9898/1,Transient abnormal myelopoiesis (C421) (2010 ICD-O-3 update) ,Borderline,
+M9898/3,Myeloid leukemia with Down Syndrome (C421) (2010 ICD-O-3 update),Malignant,
+M9910/3,Acute megakaryoblastic leukemia (C421),Malignant,
+M9911/3,Acute myeloid leukemia (megakaryoblastic) with t(1;22)(p13;q13); RBM15-MKL1  (C421) (2010 ICD-O-3 update),Malignant,
+M9912/3,Acute myeloid leukemia with BCR-ABL1 (C421) (ICD-O-3.2 update) ,Malignant,New code 2021+
+M9920/3,Therapy-related myeloid neoplasm (C421),Malignant,
+M9930/3,Myeloid sarcoma,Malignant,
+M9931/3,Acute panmyelosis with myelofibrosis (C421),Malignant,
+M9940/3,Hairy cell leukemia (C421),Malignant,
+M9945/3,Chronic myelomonocytic leukemia (C421),Malignant,
+M9946/3,Juvenile myelomonocytic leukemia (C421),Malignant,
+M9948/3,Aggressive NK-cell leukemia (C421),Malignant,
+M9950/3,Polycythemia vera (C421),Malignant,
+M9960/3,"Chronic myeloproliferative disease, NOS [OBS]  (C421), (2010 ICD-O-3 update, see 9975/3)",Malignant,
+M9961/3,Primary myelofibrosis (C421),Malignant,
+M9962/3,Essential thrombocythemia (C421),Malignant,
+M9963/3,Chronic neutrophilic leukemia  (C421),Malignant,
+M9964/3,"Chronic eosinophilic leukemia, NOS (C421)",Malignant,
+M9965/3,Myeloid and lymphoid neoplasms with PDGFRA rearrangement (C421) (2010 ICD-O-3 update) ,Malignant,
+M9966/3,Myeloid neoplasms with PDGFRB rearrangement (C421) (2010 ICD-O-3 update) ,Malignant,
+M9967/3,Myeloid and lymphoid neoplasms with FGFR1 (C421) (2010 ICD-O-3 update) ,Malignant,
+M9968/3,Myeloid or lymphoid neoplasm with PCM1-JAK2 (C421) (ICD-O-3.2 update) ,Malignant,New code 2021+
+M9970/1,"Lymphoproliferative disorder, NOS",Borderline,
+M9970/3,"Lymphoproliferative disease, malignant, NOS",Malignant,Not listed in ICD-O-3.2
+M9971/1,"Post transplant lymphoproliferative disorder, NOS (ICD-O-3.2 update)",Borderline,
+M9971/3,"Post transplant lymphoproliferative disorder  (ICD-O-3.2 update, see code 9971/1)",Malignant,Valid 2010-2020 only
+M9975/3,Myeloproliferative neoplasm unclassifiable  (C421) (2010 ICD-O-3 update),Malignant,
+M9980/3,Myelodysplastic syndrome with single lineage dysplasia (C421),Malignant,
+M9982/3,Myelodysplastic syndrome with ring sideroblasts and single lineage dysplasia,Malignant,
+M9983/3,Myelodysplastic syndrome with excess blasts (C421),Malignant,
+M9984/3,"Refractory anemia with excess blasts in transformation [OBS] (C421), (2010 ICD-O-3 update, see 9983/3) ",Malignant,
+M9985/3,Refractory cytopenia with multilineage dysplasia (C421),Malignant,
+M9986/3,Myelodysplastic syndrome associated with isolated del(5q) (C421),Malignant,
+M9987/3,"Therapy related myelodysplastic syndrome, NOS [OBS] (C421), (2010 ICD-O-3 update, see 9920/3)",Malignant,
+M9989/3,"Myelodysplastic syndrome, NOS (C421)",Malignant,
+M9991/3,"Refractory neutropenia, [OBS] (C421) (ICD-O-3.2 update, see code 9980) ",Malignant,Valid 2010-2020 only
+M9992/3,"Refractory thrombocytopenia, [OBS] (C421) (ICD-O-3.2 update, see code 9980) ",Malignant,Valid 2010-2020 only
+M9993/3,Myelodysplastic syndrome with ring sideroblasts and multilineage dysplasia (C421) (ICD-O-3.2 update) ,Malignant,New code 2021+
