@@ -1,0 +1,42 @@
+﻿icd10,sites,abbr
+C70-72,"Brain, central nervous system ",Brain CNS
+C00-97,All cancers ,All cancers
+C00-97/C44,All cancers excl. non-melanoma skin cancer ,All cancers excl. NMSC
+C21,Anus ,Anus
+C67,Bladder ,Bladder
+C50,Breast ,Breast
+C53,Cervix uteri ,Cervix uteri
+C18,Colon ,Colon
+C18-C21,Colorectum ,Colorectum
+C54,Corpus uteri ,Corpus uteri
+C23,Gallbladder ,Gallbladder
+C81,Hodgkin lymphoma ,Hodgkin lymphoma
+C12-13,Hypopharynx ,Hypopharynx
+C46,Kaposi sarcoma ,Kaposi sarcoma
+C64,Kidney ,Kidney
+C32,Larynx ,Larynx
+C91-95,Leukaemia ,Leukaemia
+C00-06,"Lip, oral cavity ","Lip, oral cavity"
+C22,Liver and intrahepatic bile ducts ,Liver
+C43,Melanoma of skin ,Melanoma
+C45,Mesothelioma ,Mesothelioma
+C90,Multiple myeloma ,Multiple myeloma
+C11,Nasopharynx ,Nasopharynx
+C82-86+C88,Non-Hodgkin lymphoma ,NHL
+C44,Non-melanoma skin cancer ,NMSC
+C15,Oesophagus ,Oesophagus
+C09-10,Oropharynx ,Oropharynx
+OTH,Other specified cancers ,Other specified cancers
+C56,Ovary ,Ovary
+C25,Pancreas ,Pancreas
+C60,Penis ,Penis
+C61,Prostate ,Prostate
+C19-20,Rectum ,Rectum
+C07-08,Salivary glands ,Salivary glands
+C16,Stomach ,Stomach
+C62,Testis ,Testis
+C73,Thyroid ,Thyroid
+C33-34,"Trachea, bronchus and lung ",Lung
+C76-80+C96-97,Unspecified sites ,Unspecified sites
+C52,Vagina ,Vagina
+C51,Vulva ,Vulva

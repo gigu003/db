@@ -1,0 +1,53 @@
+﻿id,population,country,label
+1,900,900,World
+2,903,903,Africa
+3,904,904,Latin America and the Caribbean
+4,905,905,Northern America
+5,906,906,Eastern Asia
+6,908,908,Europe
+7,909,909,Oceania
+8,910,910,Eastern Africa
+9,911,911,Middle Africa
+10,912,912,Northern Africa
+11,913,913,Southern Africa
+12,914,914,Western Africa
+13,915,915,Caribbean
+14,916,916,Central America
+15,920,920,South-Eastern Asia
+16,921,921,South Central Asia
+17,922,922,Western Asia
+18,923,923,Eastern Europe
+19,924,924,Northern Europe
+20,925,925,Southern Europe
+21,926,926,Western Europe
+22,927,927,Australia-New Zealand
+23,928,928,Melanesia
+24,931,931,South America
+25,935,935,Asia
+26,940,940,European Union (27)
+27,954,954,Micronesia
+28,957,957,Polynesia
+29,963,963,Sub-Saharan Africa
+30,964,964,Micronesia/Polynesia
+31,971,971,Sub-Saharan Africa Hub
+32,972,972,Caribbean hub
+33,973,973,Latin America Hub
+34,974,974,"South, East and South-Eastern Asia Hub"
+35,975,975,"Northern Africa, Central and Western Asia Hub"
+36,976,976,Pacific Islands Hub
+37,981,981,Very HDI country
+38,982,982,High HDI country
+39,983,983,Medium HDI country
+40,984,984,Low HDI country
+41,985,985,High HDI country (but China)
+42,986,986,Medium HDI country (but India)
+43,987,987,High income
+44,988,988,Upper middle income
+45,989,989,Lower middle income
+46,990,990,Low income
+47,991,991,WHO Africa region (AFRO)
+48,992,992,WHO Americas region (PAHO)
+49,993,993,WHO East Mediterranean region (EMRO)
+50,994,994,WHO Europe region (EURO)
+51,995,995,WHO South-East Asia region (SEARO)
+52,996,996,WHO Western Pacific region (WPRO)
