@@ -1,0 +1,53 @@
+﻿region,regions_predefined,continent
+World,,World
+Africa,Continents,
+Latin America and the Caribbean,Continents,
+Northern America,Continents,Northern America
+Eastern Asia,UN Regions,Eastern Asia
+Europe,Continents,
+Oceania,Continents,
+Eastern Africa,UN Regions,Eastern Africa
+Middle Africa,UN Regions,Middle Africa
+Northern Africa,UN Regions,Northern Africa
+Southern Africa,UN Regions,Southern Africa
+Western Africa,UN Regions,Western Africa
+Caribbean,UN Regions,Caribbean
+Central America,UN Regions,Central America
+South-Eastern Asia,UN Regions,South-Eastern Asia
+South Central Asia,UN Regions,South Central Asia
+Western Asia,UN Regions,Western Asia
+Eastern Europe,UN Regions,Eastern Europe
+Northern Europe,UN Regions,Northern Europe
+Southern Europe,UN Regions,Southern Europe
+Western Europe,UN Regions,Western Europe
+Australia-New Zealand,UN Regions,Australia/New Zealand
+Melanesia,UN Regions,Melanesia
+South America,UN Regions,South America
+Asia,Continents,
+European Union (27),Other,
+Micronesia,UN Regions,Micronesia
+Polynesia,UN Regions,Polynesia
+Sub-Saharan Africa,Other,
+Micronesia/Polynesia,Other,
+Sub-Saharan Africa Hub,GICR hub region,
+Caribbean hub,GICR hub region,
+Latin America Hub,GICR hub region,
+"South, East and South-Eastern Asia Hub",GICR hub region,
+"Northern Africa, Central and Western Asia Hub",GICR hub region,
+Pacific Islands Hub,GICR hub region,
+Very HDI country,HDI,
+High HDI country,HDI,
+Medium HDI country,HDI,
+Low HDI country,HDI,
+High HDI country (but China),HDI,
+Medium HDI country (but India),HDI,
+High income,World Bank Classification,
+Upper middle income,World Bank Classification,
+Lower middle income,World Bank Classification,
+Low income,World Bank Classification,
+WHO Africa region (AFRO),WHO region,
+WHO Americas region (PAHO),WHO region,
+WHO East Mediterranean region (EMRO),WHO region,
+WHO Europe region (EURO),WHO region,
+WHO South-East Asia region (SEARO),WHO region,
+WHO Western Pacific region (WPRO),WHO region,

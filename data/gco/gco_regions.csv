@@ -1,4 +1,4 @@
-﻿id,population,country,label
+﻿id,population_iso_un,population_gco,region
 1,900,900,World
 2,903,903,Africa
 3,904,904,Latin America and the Caribbean
