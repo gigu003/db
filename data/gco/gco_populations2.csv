@@ -1,4 +1,4 @@
-ï»¿country,region,continent
+country,region,subregion
 Afghanistan,Asia,South Central Asia
 Albania,Europe,Southern Europe
 Algeria,Africa,Northern Africa
@@ -81,7 +81,7 @@ Iraq,Asia,Western Asia
 Ireland,Europe,Northern Europe
 Israel,Asia,Western Asia
 Italy,Europe,Southern Europe
-CÃ´te d'Ivoire,Africa,Western Africa
+C_te d'Ivoire,Africa,Western Africa
 Jamaica,Latin America and the Caribbean,Caribbean
 Japan,Asia,Eastern Asia
 Kazakhstan,Asia,South Central Asia
@@ -137,7 +137,7 @@ Guinea-Bissau,Africa,Western Africa
 Timor-Leste,Asia,South-Eastern Asia
 Puerto Rico,Latin America and the Caribbean,Caribbean
 Qatar,Asia,Western Asia
-"France, La RÃ©union",Africa,Eastern Africa
+"France, La R¨¦union",Africa,Eastern Africa
 Romania,Europe,Eastern Europe
 Russian Federation,Europe,Eastern Europe
 Rwanda,Africa,Eastern Africa
@@ -168,7 +168,7 @@ Togo,Africa,Western Africa
 Trinidad and Tobago,Latin America and the Caribbean,Caribbean
 United Arab Emirates,Asia,Western Asia
 Tunisia,Africa,Northern Africa
-TÃ¼rkiye,Asia,Western Asia
+T¨¹rkiye,Asia,Western Asia
 Turkmenistan,Asia,South Central Asia
 Uganda,Africa,Eastern Africa
 Ukraine,Europe,Eastern Europe

@@ -1,42 +1,42 @@
-﻿site_code,icd10,site,site_abbr
-1,C00-06,"Lip, oral cavity ","Lip, oral cavity"
-2,C07-08,Salivary glands ,Salivary glands
-3,C09-10,Oropharynx ,Oropharynx
-4,C11,Nasopharynx ,Nasopharynx
-5,C12-13,Hypopharynx ,Hypopharynx
-6,C15,Oesophagus ,Oesophagus
-7,C16,Stomach ,Stomach
-8,C18,Colon ,Colon
-9,C19-20,Rectum ,Rectum
-10,C21,Anus ,Anus
-11,C22,Liver and intrahepatic bile ducts ,Liver
-12,C23,Gallbladder ,Gallbladder
-13,C25,Pancreas ,Pancreas
-14,C32,Larynx ,Larynx
-15,C33-34,"Trachea, bronchus and lung ",Lung
-16,C43,Melanoma of skin ,Melanoma
-17,C44,Non-melanoma skin cancer ,NMSC
-18,C45,Mesothelioma ,Mesothelioma
-19,C46,Kaposi sarcoma ,Kaposi sarcoma
-20,C50,Breast ,Breast
-21,C51,Vulva ,Vulva
-22,C52,Vagina ,Vagina
-23,C53,Cervix uteri ,Cervix uteri
-24,C54,Corpus uteri ,Corpus uteri
-25,C56,Ovary ,Ovary
-26,C60,Penis ,Penis
-27,C61,Prostate ,Prostate
-28,C62,Testis ,Testis
-29,C64,Kidney ,Kidney
-30,C67,Bladder ,Bladder
-31,C70-72,"Brain, central nervous system ",Brain CNS
-32,C73,Thyroid ,Thyroid
-33,C81,Hodgkin lymphoma ,Hodgkin lymphoma
-34,C82-86+C88,Non-Hodgkin lymphoma ,NHL
-35,C90,Multiple myeloma ,Multiple myeloma
-36,C91-95,Leukaemia ,Leukaemia
-37,C76-80+C96-97,Unspecified sites ,Unspecified sites
-38,OTH,Other specified cancers ,Other specified cancers
-39,C00-97,All cancers ,All cancers
-40,C00-97/C44,All cancers excl. non-melanoma skin cancer ,All cancers excl. NMSC
-41,C18-C21,Colorectum ,Colorectum
+site_code,icd10,site,site_abbr
+1,C00-06,"Lip, oral cavity","Lip, oral cavity"
+2,C07-08,Salivary glands,Salivary glands
+3,C09-10,Oropharynx,Oropharynx
+4,C11,Nasopharynx,Nasopharynx
+5,C12-13,Hypopharynx,Hypopharynx
+6,C15,Oesophagus,Oesophagus
+7,C16,Stomach,Stomach
+8,C18,Colon,Colon
+9,C19-20,Rectum,Rectum
+10,C21,Anus,Anus
+11,C22,Liver and intrahepatic bile ducts,Liver
+12,C23,Gallbladder,Gallbladder
+13,C25,Pancreas,Pancreas
+14,C32,Larynx,Larynx
+15,C33-34,"Trachea, bronchus and lung",Lung
+16,C43,Melanoma of skin,Melanoma
+17,C44,Non-melanoma skin cancer,NMSC
+18,C45,Mesothelioma,Mesothelioma
+19,C46,Kaposi sarcoma,Kaposi sarcoma
+20,C50,Breast,Breast
+21,C51,Vulva,Vulva
+22,C52,Vagina,Vagina
+23,C53,Cervix uteri,Cervix uteri
+24,C54,Corpus uteri,Corpus uteri
+25,C56,Ovary,Ovary
+26,C60,Penis,Penis
+27,C61,Prostate,Prostate
+28,C62,Testis,Testis
+29,C64,Kidney,Kidney
+30,C67,Bladder,Bladder
+31,C70-72,"Brain, central nervous system",Brain CNS
+32,C73,Thyroid,Thyroid
+33,C81,Hodgkin lymphoma,Hodgkin lymphoma
+34,C82-86+C88,Non-Hodgkin lymphoma,NHL
+35,C90,Multiple myeloma,Multiple myeloma
+36,C91-95,Leukaemia,Leukaemia
+37,C76-80+C96-97,Unspecified sites,Unspecified sites
+38,OTH,Other specified cancers,Other specified cancers
+39,C00-97,All cancers,All cancers
+40,C00-97/C44,All cancers excl. non-melanoma skin cancer,All cancers excl. NMSC
+41,C18-C21,Colorectum,Colorectum

@@ -1,4 +1,4 @@
-ï»¿id,population_iso_un,population_gco,country,abbr
+id,popid,popid_gco,country,abbr
 1,4,4,Afghanistan,AFG
 2,8,8,Albania,ALB
 3,12,12,Algeria,DZA
@@ -81,7 +81,7 @@
 80,372,372,Ireland,IRL
 81,376,376,Israel,ISR
 82,380,380,Italy,ITA
-83,384,384,CÃ´te d'Ivoire,CIV
+83,384,384,C_te d'Ivoire,CIV
 84,388,388,Jamaica,JAM
 85,392,392,Japan,JPN
 86,398,398,Kazakhstan,KAZ
@@ -137,7 +137,7 @@
 136,626,626,Timor-Leste,TLS
 137,630,630,Puerto Rico,PRI
 138,634,634,Qatar,QAT
-139,638,638,"France, La RÃ©union",REU
+139,638,638,"France, La R¨¦union",REU
 140,642,642,Romania,ROU
 141,643,643,Russian Federation,RUS
 142,646,646,Rwanda,RWA
@@ -168,7 +168,7 @@
 167,780,780,Trinidad and Tobago,TTO
 168,784,784,United Arab Emirates,ARE
 169,788,788,Tunisia,TUN
-170,792,792,TÃ¼rkiye,TUR
+170,792,792,T¨¹rkiye,TUR
 171,795,795,Turkmenistan,TKM
 172,800,800,Uganda,UGA
 173,804,804,Ukraine,UKR
